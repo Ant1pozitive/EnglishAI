@@ -1,0 +1,245 @@
+Level: A1-A2
+apple - A fruit that is usually red, green, or yellow - яблоко
+book - A set of written, printed, or blank pages fastened together inside a cover - книга
+car - A road vehicle with an engine, four wheels, and seats for a few people - автомобиль
+dog - A domesticated carnivorous mammal that typically has a long snout, an acute sense of smell, and a barking, howling, or whining voice - собака
+egg - An oval or round object laid by a female bird, reptile, fish, or invertebrate, usually containing a developing embryo - яйцо
+friend - A person with whom one has a bond of mutual affection - друг
+game - An activity that one engages in for amusement or fun - игра
+house - A building for human habitation, especially one that is lived in by a family or small group of people - дом
+ice - Frozen water, a brittle, transparent crystalline solid - лед
+juice - A drink made from the extraction or pressing of the natural liquid contained in fruit and vegetables - сок
+key - A small piece of shaped metal with incisions cut to fit the wards of a particular lock, used to operate a lock - ключ
+lamp - A device for giving light, especially one that has a covering or is contained within something - лампа
+mother - A woman in relation to her child or children - мать
+night - The period of darkness in each twenty-four hours - ночь
+orange - A round juicy citrus fruit with a tough bright reddish-yellow rind - апельсин
+pencil - An instrument for writing or drawing, consisting of a thin stick of graphite or a similar substance enclosed in a long thin piece of wood or fixed in a metal or plastic case - карандаш
+queen - The female ruler of an independent state, especially one who inherits the position by right of birth - королева
+river - A large natural stream of water flowing in a channel to the sea, a lake, or another such stream - река
+sun - The star around which the earth orbits - солнце
+table - A piece of furniture with a flat top and one or more legs, providing a level surface on which objects may be placed - стол
+umbrella - A device consisting of a circular canopy of cloth on a folding metal frame supported by a central rod, used as protection against rain or sometimes sun - зонт
+vase - A decorative container, typically made of glass or ceramic and used as an ornament or for displaying cut flowers - ваза
+window - An opening in the wall or roof of a building or vehicle that is fitted with glass or other transparent material, to allow light or air and to enable people to see out - окно
+xylophone - A musical instrument played by striking a row of wooden bars of graduated length with one or more small wooden or plastic beaters - ксилофон
+yawn - Involuntarily open one's mouth wide and inhale deeply due to tiredness or boredom - зевать
+zoo - An establishment which maintains a collection of wild animals, typically in a park or gardens, for study, conservation, or display to the public - зоопарк
+ball - A solid or hollow spherical or egg-shaped object that is kicked, thrown, or hit in a game - мяч
+cat - A small domesticated carnivorous mammal with soft fur, a short snout, and retractile claws - кошка
+door - A hinged, sliding, or revolving barrier at the entrance to a building, room, or vehicle, or in the framework of a cupboard - дверь
+ear - The organ of hearing and balance in humans and other vertebrates, especially the external part of this - ухо
+fish - A limbless cold-blooded vertebrate animal with gills and fins and living wholly in water - рыба
+girl - A female child - девочка
+hat - A shaped covering for the head worn for warmth, as a fashion item, or as part of a uniform - шляпа
+island - A piece of land surrounded by water - остров
+juice - The liquid part that can be extracted from a fruit or vegetable - сок
+kite - A toy consisting of a light frame with thin material stretched over it, flown in the wind at the end of a long string - воздушный змей
+leaf - A flattened structure of a higher plant, typically green and blade-like, that is attached to a stem directly or via a stalk - лист
+mountain - A large natural elevation of the earth's surface rising abruptly from the surrounding level - гора
+nest - A structure or place made or chosen by a bird for laying eggs and sheltering its young - гнездо
+ocean - A very large expanse of sea, in particular each of the main areas into which the sea is divided geographically - океан
+park - A large public green area in a town, used for recreation - парк
+queen - The female ruler of an independent state, especially one who inherits the position by right of birth - королева
+rabbit - A burrowing, plant-eating mammal with long ears, long hind legs, and a short tail - кролик
+star - A fixed luminous point in the night sky which is a large, remote incandescent body like the sun - звезда
+tree - A woody perennial plant, typically having a single stem or trunk growing to a considerable height and bearing lateral branches at some distance from the ground - дерево
+umbrella - A device for protection against the weather consisting of a circular fabric canopy on a central rod - зонт
+violin - A stringed musical instrument of treble pitch, played with a horsehair bow - скрипка
+whale - A very large marine mammal with a streamlined hairless body, a horizontal tail fin, and a blowhole on top of the head for breathing - кит
+x-ray - A form of electromagnetic radiation that can pass through solid objects, used for medical imaging - рентген
+yogurt - A semi-solid sourish food prepared from milk fermented by added bacteria - йогурт
+zebra - An African wild horse with black-and-white stripes and an erect mane - зебра
+balloon - A small, thin rubber bag that can be inflated with air or another gas, used as a child's toy or a decoration - воздушный шар
+clock - A mechanical or electrical device for measuring time, indicating hours, minutes, and sometimes seconds by hands on a round dial or by displayed figures - часы
+duck - A waterbird with a broad blunt bill, short legs, webbed feet, and a waddling gait - утка
+elephant - A large herbivorous mammal with a prehensile trunk, long curved ivory tusks, and large ears - слон
+frog - A tailless amphibian with a short squat body, moist smooth skin, and very long hind legs for leaping - лягушка
+goat - A hardy domesticated ruminant animal that has backward-curving horns and (in the male) a beard - коза
+horse - A solid-hoofed plant-eating domesticated mammal with a flowing mane and tail, used for riding, racing, and to carry and pull loads - лошадь
+ice cream - A soft frozen food made with sweetened and flavored milk fat - мороженое
+jacket - An outer garment extending either to the waist or the hips, typically having sleeves and a fastening down the front - куртка
+kite - A toy consisting of a light frame with thin material stretched over it, flown in the wind at the end of a long string - воздушный змей
+lion - A large tawny-colored cat that lives in prides, found in Africa and northwestern India - лев
+monkey - A small to medium-sized primate that typically has a long tail, most kinds of which live in trees in tropical countries - обезьяна
+nut - A fruit consisting of a hard or tough shell around an edible kernel - орех
+octopus - A cephalopod mollusk with eight sucker-bearing arms, a soft sac-like body, and no internal shell - осьминог
+pig - An omnivorous domesticated hoofed mammal with sparse bristly hair and a flat snout for rooting in the soil - свинья
+queen - The female ruler of an independent state, especially one who inherits the position by right of birth - королева
+rose - A woody perennial of the genus Rosa, within the family Rosaceae - роза
+snake - A long limbless reptile that has no eyelids, a short tail, and jaws that are capable of considerable extension - змея
+tiger - A large solitary cat that has a fawn or brown coat with black stripes and lives in the forests of Asia - тигр
+umbrella - A device for protection against the weather consisting of a circular fabric canopy on a central rod - зонт
+vulture - A large bird of prey with the head and neck more or less bare of feathers, feeding chiefly on carrion - гриф
+wolf - A wild carnivorous mammal which is the largest member of the dog family, living and hunting in packs - волк
+xylophone - A musical instrument played by striking a row of wooden bars of graduated length with one or more small wooden or plastic beaters - ксилофон
+yak - A large domesticated wild ox with shaggy hair, humped shoulders, and large horns, found throughout the Himalayas - як
+zebra - An African wild horse with black-and-white stripes and an erect mane - зебра
+Level: B1-B2
+complicated - Difficult to understand or deal with - сложный
+derive - To take or receive from a source - получать
+emphasize - To give special importance or prominence to something in speaking or writing - подчеркивать
+genuine - Truly what something is said to be; authentic - подлинный
+hinder - To create difficulties for someone or something, resulting in delay or obstruction - мешать
+illustrate - To explain or make something clear by using examples, charts, pictures, etc. - иллюстрировать
+justify - To show or prove to be right or reasonable - оправдывать
+knowledge - Facts, information, and skills acquired through experience or education - знание
+literature - Written works, especially those considered of superior or lasting artistic merit - литература
+magnify - To make something appear larger than it is, especially with a lens or microscope - увеличивать
+navigate - To plan and direct the route or course of a ship, aircraft, or other form of transport - управлять
+obstacle - A thing that blocks one's way or prevents or hinders progress - препятствие
+perspective - A particular attitude toward or way of regarding something; a point of view - перспектива
+questionnaire - A set of printed or written questions with a choice of answers, devised for the purposes of a survey or statistical study - анкета
+recommend - To put forward someone or something with approval as being suitable for a particular purpose or role - рекомендовать
+strategy - A plan of action designed to achieve a long-term or overall aim - стратегия
+technique - A way of carrying out a particular task, especially the execution or performance of an artistic work or a scientific procedure - техника
+underestimate - To estimate something to be smaller or less important than it actually is - недооценивать
+volunteer - A person who freely offers to take part in an enterprise or undertake a task - волонтер
+withdraw - To remove or take away something from a particular place or position - изымать
+analyze - To examine something methodically and in detail, typically for purposes of explanation and interpretation - анализировать
+benefit - An advantage or profit gained from something - выгода
+calculate - To determine the amount or number of something mathematically - вычислять
+debate - A formal discussion on a particular topic in a public meeting or legislative assembly, in which opposing arguments are put forward - дебаты
+evaluate - To form an idea of the amount, number, or value of; assess - оценивать
+fascinate - To attract and hold the attention of someone - очаровывать
+generate - To produce or create something - генерировать
+highlight - To make something stand out by marking it with a bright color - выделять
+illustrate - To explain or make something clear by using examples, charts, pictures, etc. - иллюстрировать
+justify - To show or prove to be right or reasonable - оправдывать
+knowledge - Facts, information, and skills acquired through experience or education - знание
+literature - Written works, especially those considered of superior or lasting artistic merit - литература
+magnify - To make something appear larger than it is, especially with a lens or microscope - увеличивать
+navigate - To plan and direct the route or course of a ship, aircraft, or other form of transport - управлять
+obstacle - A thing that blocks one's way or prevents or hinders progress - препятствие
+perspective - A particular attitude toward or way of regarding something; a point of view - перспектива
+questionnaire - A set of printed or written questions with a choice of answers, devised for the purposes of a survey or statistical study - анкета
+recommend - To put forward someone or something with approval as being suitable for a particular purpose or role - рекомендовать
+strategy - A plan of action designed to achieve a long-term or overall aim - стратегия
+technique - A way of carrying out a particular task, especially the execution or performance of an artistic work or a scientific procedure - техника
+underestimate - To estimate something to be smaller or less important than it actually is - недооценивать
+volunteer - A person who freely offers to take part in an enterprise or undertake a task - волонтер
+withdraw - To remove or take away something from a particular place or position - изымать
+analyze - To examine something methodically and in detail, typically for purposes of explanation and interpretation - анализировать
+benefit - An advantage or profit gained from something - выгода
+calculate - To determine the amount or number of something mathematically - вычислять
+debate - A formal discussion on a particular topic in a public meeting or legislative assembly, in which opposing arguments are put forward - дебаты
+evaluate - To form an idea of the amount, number, or value of; assess - оценивать
+fascinate - To attract and hold the attention of someone - очаровывать
+generate - To produce or create something - генерировать
+highlight - To make something stand out by marking it with a bright color - выделять
+illustrate - To explain or make something clear by using examples, charts, pictures, etc. - иллюстрировать
+justify - To show or prove to be right or reasonable - оправдывать
+knowledge - Facts, information, and skills acquired through experience or education - знание
+literature - Written works, especially those considered of superior or lasting artistic merit - литература
+magnify - To make something appear larger than it is, especially with a lens or microscope - увеличивать
+navigate - To plan and direct the route or course of a ship, aircraft, or other form of transport - управлять
+obstacle - A thing that blocks one's way or prevents or hinders progress - препятствие
+perspective - A particular attitude toward or way of regarding something; a point of view - перспектива
+questionnaire - A set of printed or written questions with a choice of answers, devised for the purposes of a survey or statistical study - анкета
+recommend - To put forward someone or something with approval as being suitable for a particular purpose or role - рекомендовать
+strategy - A plan of action designed to achieve a long-term or overall aim - стратегия
+technique - A way of carrying out a particular task, especially the execution or performance of an artistic work or a scientific procedure - техника
+underestimate - To estimate something to be smaller or less important than it actually is - недооценивать
+volunteer - A person who freely offers to take part in an enterprise or undertake a task - волонтер
+withdraw - To remove or take away something from a particular place or position - изымать
+analyze - To examine something methodically and in detail, typically for purposes of explanation and interpretation - анализировать
+benefit - An advantage or profit gained from something - выгода
+calculate - To determine the amount or number of something mathematically - вычислять
+debate - A formal discussion on a particular topic in a public meeting or legislative assembly, in which opposing arguments are put forward - дебаты
+evaluate - To form an idea of the amount, number, or value of; assess - оценивать
+fascinate - To attract and hold the attention of someone - очаровывать
+generate - To produce or create something - генерировать
+highlight - To make something stand out by marking it with a bright color - выделять
+illustrate - To explain or make something clear by using examples, charts, pictures, etc. - иллюстрировать
+justify - To show or prove to be right or reasonable - оправдывать
+knowledge - Facts, information, and skills acquired through experience or education - знание
+literature - Written works, especially those considered of superior or lasting artistic merit - литература
+magnify - To make something appear larger than it is, especially with a lens or microscope - увеличивать
+navigate - To plan and direct the route or course of a ship, aircraft, or other form of transport - управлять
+obstacle - A thing that blocks one's way or prevents or hinders progress - препятствие
+perspective - A particular attitude toward or way of regarding something; a point of view - перспектива
+questionnaire - A set of printed or written questions with a choice of answers, devised for the purposes of a survey or statistical study - анкета
+recommend - To put forward someone or something with approval as being suitable for a particular purpose or role - рекомендовать
+strategy - A plan of action designed to achieve a long-term or overall aim - стратегия
+technique - A way of carrying out a particular task, especially the execution or performance of an artistic work or a scientific procedure - техника
+underestimate - To estimate something to be smaller or less important than it actually is - недооценивать
+volunteer - A person who freely offers to take part in an enterprise or undertake a task - волонтер
+withdraw - To remove or take away something from a particular place or position - изымать
+Level: C1-C2
+allegory - A story, poem, or picture that can be interpreted to reveal a hidden meaning - аллегория
+benevolent - Well meaning and kindly - благожелательный
+contemplate - To look at or view with continued attention; observe or study thoughtfully - созерцать
+disseminate - To scatter or spread widely, as though sowing seed - распространять
+ephemeral - Lasting for a very short time - эфемерный
+fastidious - Very attentive to and concerned about accuracy and detail - привередливый
+gregarious - Fond of company; sociable - общительный
+heterogeneous - Diverse in character or content - неоднородный
+iconoclast - A person who attacks or criticizes cherished beliefs or institutions - иконоборец
+juxtapose - To place or deal with close together for contrasting effect - сопоставлять
+kaleidoscope - A constantly changing pattern or sequence of elements - калейдоскоп
+laconic - Using very few words - лаконичный
+magnanimous - Very generous or forgiving, especially toward a rival or someone less powerful - великодушный
+nefarious - Wicked or criminal - гнусный
+obfuscate - To render obscure, unclear, or unintelligible - затушевывать
+perfunctory - Carried out with a minimum of effort or reflection - поверхностный
+quintessential - Representing the most perfect or typical example of a quality or class - наиболее типичный
+recalcitrant - Having an obstinately uncooperative attitude toward authority or discipline - непокорный
+surreptitious - Kept secret, especially because it would not be approved of - тайный
+transient - Lasting only for a short time; impermanent - временный
+ubiquitous - Present, appearing, or found everywhere - вездесущий
+verbose - Using or expressed in more words than are needed - многословный
+whimsical - Playfully quaint or fanciful, especially in an appealing and amusing way - причудливый
+xenophobic - Having or showing a dislike of or prejudice against people from other countries - ксенофобный
+yield - To produce or provide (a natural, agricultural, or industrial product) - приносить
+zealous - Having or showing zeal - рьяный
+aberration - A departure from what is normal, usual, or expected, typically one that is unwelcome - отклонение
+capitulate - To cease to resist an opponent or an unwelcome demand; surrender - капитулировать
+deleterious - Causing harm or damage - вредный
+efficacy - The ability to produce a desired or intended result - эффективность
+fervent - Having or displaying a passionate intensity - пылкий
+guile - Sly or cunning intelligence - коварство
+hierarchy - A system or organization in which people or groups are ranked one above the other according to status or authority - иерархия
+immutable - Unchanging over time or unable to be changed - неизменный
+juxtaposition - The fact of two things being seen or placed close together with contrasting effect - сопоставление
+kudos - Praise and honor received for an achievement - похвала
+lurid - Very vivid in color, especially so as to create an unpleasantly harsh or unnatural effect - сенсационный
+myriad - A countless or extremely great number - несметное количество
+nuance - A subtle difference in or shade of meaning, expression, or sound - нюанс
+ostentatious - Characterized by vulgar or pretentious display; designed to impress or attract notice - показной
+paradigm - A typical example or pattern of something; a model - парадигма
+quandary - A state of perplexity or uncertainty over what to do in a difficult situation - затруднительное положение
+reticent - Not revealing one's thoughts or feelings readily - сдержанный
+sycophant - A person who acts obsequiously toward someone important in order to gain advantage - подхалим
+tenacious - Tending to keep a firm hold of something; clinging or adhering closely - цепкий
+ubiquity - The fact of appearing everywhere or of being very common - повсеместность
+vicarious - Experienced in the imagination through the feelings or actions of another person - косвенный
+wizened - Shriveled or wrinkled with age - иссохший
+xenial - Hospitable, especially to visiting strangers or foreigners - гостеприимный
+yearn - To have an intense feeling of longing for something, typically something that one has lost or been separated from - тосковать
+zenith - The time at which something is most powerful or successful - зенит
+abhor - Regard with disgust and hatred - ненавидеть
+belligerent - Hostile and aggressive - воинственный
+cognizant - Having knowledge or being aware of - осведомленный
+dilapidated - In a state of disrepair or ruin as a result of age or neglect - ветхий
+egregious - Outstandingly bad; shocking - вопиющий
+fledgling - A person or organization that is immature, inexperienced, or underdeveloped - неоперившийся
+garrulous - Excessively talkative, especially on trivial matters - болтливый
+halcyon - Denoting a period of time in the past that was idyllically happy and peaceful - безмятежный
+idiosyncratic - Relating to idiosyncrasy; peculiar or individual - идиосинкратический
+jovial - Cheerful and friendly - веселый
+knack - An acquired or natural skill at performing a task - умение
+lethargic - Affected by lethargy; sluggish and apathetic - вялый
+malleable - Easily influenced; pliable - податливый
+negligible - So small or unimportant as to be not worth considering; insignificant - незначительный
+obsequious - Obedient or attentive to an excessive or servile degree - раболепный
+pragmatic - Dealing with things sensibly and realistically in a way that is based on practical rather than theoretical considerations - прагматичный
+quixotic - Exceedingly idealistic; unrealistic and impractical - донкихотский
+resilient - Able to withstand or recover quickly from difficult conditions - упругий
+spurious - Not being what it purports to be; false or fake - ложный
+tenuous - Very weak or slight - тонкий
+usurp - Take (a position of power or importance) illegally or by force - узурпировать
+vigilant - Keeping careful watch for possible danger or difficulties - бдительный
+waft - Pass or cause to pass easily or gently through or as if through the air - дуновение
+xenodochial - Friendly to strangers - дружелюбный к чужакам
+yearning - A feeling of intense longing for something - тоска
+zealot - A person who is fanatical and uncompromising in pursuit of their religious, political, or other ideals - фанатик
