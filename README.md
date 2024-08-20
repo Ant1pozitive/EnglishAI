@@ -27,23 +27,35 @@ pip install -r requirements.txt
 Создайте файл .env в корне проекта и добавьте в него ваши токены:
 
 TELEGRAM_TOKEN=your_telegram_bot_token
-PROXY_API=your_proxy_api_key
+
+PROXY_API=your_proxy_api_key или APY_KEY=your_proxy_api_key для взаимодействия с OpenAI напрямую
 
 Замените your_telegram_bot_token и your_proxy_api_key на реальные значения ваших токенов.
 
 ### 4. Структура файлов проекта
 
 bot.py: Основной файл бота на Python.
+
 .env: Файл с переменными окружения (должен быть настроен пользователем).
+
 requirements.txt: Список зависимостей Python.
+
 data/: Папка с текстовыми файлами, содержащими грамматические правила и словарь.
+
 grammar_rules.txt: Грамматические правила для различных уровней.
+
 dictionary.txt: Словарь для различных уровней.
+
 grammar_exercises.txt: Упражнения по грамматике для различных уровней.
+
 images/: Папка с изображениями персонажей.
+
 Lori_image.jpg: Изображение персонажа Lori.
+
 Kiko_image.jpg: Изображение персонажа Kiko.
+
 Nancy_image.jpg: Изображение персонажа Nancy.
+
 Broot_image.jpg: Изображение персонажа Broot.
 
 ### 5. Запуск бота
