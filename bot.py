@@ -72,8 +72,7 @@ class User(Base):
     notification_time = Column(String)
     notification_days = Column(Text)
     language = Column(String, default='en')
-    chosen_character = Column(String, default='Lori')  # Добавлено для хранения выбранного персонажа
-
+    chosen_character = Column(String, default='Lori')
 
 
 class UserHistory(Base):
@@ -121,10 +120,13 @@ level_mapping = {
 }
 
 greetings = {
-    'A1': ["Hello! My name is {name}. How can I help you today?", "Hi! I'm {name}. What would you like to talk about today?"],
+    'A1': ["Hello! My name is {name}. How can I help you today?",
+           "Hi! I'm {name}. What would you like to talk about today?"],
     'A2': ["Hello! I'm {name}. What can I do for you today?", "Hi! I'm {name}. What topic would you like to discuss?"],
-    'B1': ["Hi there! I'm {name}. How can I assist you with your English?", "Hello! I'm {name}. What would you like to talk about?"],
-    'B2': ["Hello! My name is {name}. How can I assist you in your English journey?", "Hi! I'm {name}. What can I do for you today?"],
+    'B1': ["Hi there! I'm {name}. How can I assist you with your English?",
+           "Hello! I'm {name}. What would you like to talk about?"],
+    'B2': ["Hello! My name is {name}. How can I assist you in your English journey?",
+           "Hi! I'm {name}. What can I do for you today?"],
     'C1': ["Hi! I'm {name}. Let's dive into advanced topics. What would you like to discuss?",
            "Hello! My name is {name}. How can I support your advanced English learning today?"],
     'C2': ["Hello! I'm {name}. Let's talk about something challenging today. What's on your mind?",
@@ -136,9 +138,8 @@ CHARACTER_VOICES = {
     "Kiko": "fable",
     "Nancy": "shimmer",
     "Broot": "echo",
-    "default": "alloy"  # Голос для словарных упражнений и других ситуаций
+    "default": "alloy"
 }
-
 
 reminder_messages_en = [
     "Hello, I missed you. Let's practice!",
@@ -626,7 +627,8 @@ def load_grammar_exercises(filepath):
     return grammar_exercises
 
 
-grammar_exercises = load_grammar_exercises('C:/Users/User/PycharmProjects/pythonProject/extra_files/grammar_exercises.txt')
+grammar_exercises = load_grammar_exercises(
+    'C:/Users/User/PycharmProjects/pythonProject/extra_files/grammar_exercises.txt')
 
 
 @router.message(F.text.in_({"Practice", "Практика"}))
@@ -1050,13 +1052,18 @@ async def show_word_definition(message: Message):
 """ Функции для общения и озвучки """
 
 CHARACTER_IMAGES = {
-    "Lori": "C:/Users/User/PycharmProjects/pythonProject/images/Lori_image.jpg",  # Замените на реальный путь к изображению Lori
-    "Kiko": "C:/Users/User/PycharmProjects/pythonProject/images/Kiko_image.jpg",  # Замените на реальный путь к изображению Kiko
-    "Nancy": "C:/Users/User/PycharmProjects/pythonProject/images/Nancy_image.jpg",  # Замените на реальный путь к изображению Nancy
-    "Broot": "C:/Users/User/PycharmProjects/pythonProject/images/Broot_image.jpg"  # Замените на реальный путь к изображению Broot
+    "Lori": "C:/Users/User/PycharmProjects/pythonProject/images/Lori_image.jpg",
+    # Замените на реальный путь к изображению Lori
+    "Kiko": "C:/Users/User/PycharmProjects/pythonProject/images/Kiko_image.jpg",
+    # Замените на реальный путь к изображению Kiko
+    "Nancy": "C:/Users/User/PycharmProjects/pythonProject/images/Nancy_image.jpg",
+    # Замените на реальный путь к изображению Nancy
+    "Broot": "C:/Users/User/PycharmProjects/pythonProject/images/Broot_image.jpg"
+    # Замените на реальный путь к изображению Broot
 }
 
 CHARACTERS = ["Lori", "Kiko", "Nancy", "Broot"]
+
 
 @router.message(F.text.in_({"Talk", "Разговор"}))
 async def start_talk(message: Message, state: FSMContext):
@@ -1184,6 +1191,7 @@ async def generate_chatgpt_response(user_id, chosen_character):
     except Exception as e:
         logging.error(f"OpenAI API error: {e}")
         return "Sorry, I couldn't generate a response at the moment."
+
 
 @router.message(F.content_type == "voice")
 async def handle_voice_message(message: Message, state: FSMContext):
