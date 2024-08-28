@@ -1,0 +1,6 @@
+2024-08-28 22:23:02,810 - aiogram.dispatcher - INFO - Start polling
+2024-08-28 22:23:02,938 - aiogram.dispatcher - INFO - Run polling for bot @English_AI_trainning_bot id=7251403301 - 'EnglishAI'
+2024-08-28 22:23:13,984 - aiogram.event - INFO - Update id=9898522 is handled. Duration 671 ms by bot id=7251403301
+2024-08-28 22:23:17,379 - aiogram.event - INFO - Update id=9898523 is handled. Duration 87 ms by bot id=7251403301
+2024-08-28 22:23:18,931 - aiogram.event - INFO - Update id=9898524 is handled. Duration 122 ms by bot id=7251403301
+2024-08-28 22:23:21,005 - aiogram.event - INFO - Update id=9898525 is handled. Duration 1016 ms by bot id=7251403301

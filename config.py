@@ -90,3 +90,4 @@ CHARACTER_IMAGES = {
     "Nancy": "/root/EnglishAI/images/Nancy_image.jpg",
     "Broot": "/root/EnglishAI/images/Broot_image.jpg"
 }
+
