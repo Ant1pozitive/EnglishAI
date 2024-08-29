@@ -84,6 +84,50 @@
 (He/not/play) __________ video games now. - is not playing
 (I/take) __________ a nap. - am taking
 
+## Present Perfect
+She/ever/visit) __________ Paris? - has she ever visited
+(They/not/finish) __________ their homework yet. - have not finished
+(He/already/eat) __________ dinner. - has already eaten
+(We/not/see) __________ that movie before. - have not seen
+(I/just/buy) __________ a new phone. - have just bought
+(You/ever/try) __________ sushi? - have you ever tried
+(She/not/write) __________ the letter yet. - has not written
+(They/finish) __________ the project. - have finished
+(He/never/meet) __________ her before. - has never met
+(We/visit) __________ London recently. - have visited
+(You/not/do) __________ your homework yet. - have not done
+(She/see) __________ that movie three times. - has seen
+(They/not/clean) __________ the house today. - have not cleaned
+(He/lose) __________ his keys. - has lost
+(We/not/eat) __________ breakfast yet. - have not eaten
+(You/ever/read) __________ this book? - have you ever read
+(She/never/be) __________ to New York. - has never been
+(They/already/arrive) __________ at the airport. - have already arrived
+(He/not/finish) __________ his lunch yet. - has not finished
+(We/just/receive) __________ the package. - have just received
+
+## Present Perfect Continuous
+(She/work) __________ here for two years. - has been working
+(They/not/sleep) __________ well lately. - have not been sleeping
+(He/study) __________ all day. - has been studying
+(We/wait) __________ for the bus for 30 minutes. - have been waiting
+(I/live) __________ in this city since 2015. - have been living
+(You/run) __________ for an hour? - have you been running
+(She/not/feel) __________ well recently. - has not been feeling
+(They/play) __________ football since morning. - have been playing
+(He/look) __________ for his keys all day. - has been looking
+(We/not/work) __________ on the project this week. - have not been working
+(You/visit) __________ your grandparents? - have you been visiting
+(She/clean) __________ the house for hours. - has been cleaning
+(They/wait) __________ for the bus since 8 AM. - have been waiting
+(He/not/exercise) __________ lately. - has not been exercising
+(We/discuss) __________ this topic for an hour. - have been discussing
+(You/take) __________ any photos? - have you been taking
+(She/not/sleep) __________ well for the past few nights. - has not been sleeping
+(They/live) __________ here for a long time. - have been living
+(He/read) __________ this book all day. - has been reading
+(We/not/eat) __________ much today. - have not been eating
+
 ## Past Simple
 (They/travel) __________ to Italy last summer. - traveled
 (She/not/see) __________ him yesterday. - did not see
@@ -168,6 +212,50 @@
 (They/discuss) __________ the project when I joined them. - were discussing
 (He/wait) __________ for the bus when it started raining. - was waiting
 
+## Past Perfect
+(She/finish) __________ her work before she went out. - had finished
+(They/not/see) __________ the movie before last night. - had not seen
+(He/already/eat) __________ dinner when we arrived. - had already eaten
+(We/not/visit) __________ that museum before. - had not visited
+(I/already/meet) __________ him before the party. - had already met
+(You/finish) __________ your homework before the deadline? - had you finished
+(She/not/write) __________ the report before the meeting. - had not written
+(They/leave) __________ the office by the time we arrived. - had left
+(He/never/been) __________ to Paris before last year. - had never been
+(We/already/eat) __________ before the guests arrived. - had already eaten
+(You/ever/visit) __________ that place before? - had you ever visited
+(She/not/finish) __________ cooking when the guests arrived. - had not finished
+(They/pack) __________ their bags before the trip. - had packed
+(He/lose) __________ his keys before he found them. - had lost
+(We/see) __________ the movie before, so we didn’t watch it again. - had seen
+(You/meet) __________ him before the event? - had you met
+(She/never/see) __________ the ocean before her trip. - had never seen
+(They/clean) __________ the house before the party started. - had cleaned
+(He/not/arrive) __________ by the time we left. - had not arrived
+(We/just/leave) __________ when the phone rang. - had just left
+
+## Past Perfect Continuous
+(She/work) __________ for hours before she took a break. - had been working
+(They/not/sleep) __________ well before their vacation. - had not been sleeping
+(He/study) __________ for three hours before the test. - had been studying
+(We/wait) __________ for the bus for 20 minutes before it came. - had been waiting
+(I/live) __________ in that city for years before I moved. - had been living
+(You/work) __________ here long before you got promoted? - had you been working
+(She/not/feel) __________ well for days before she saw a doctor. - had not been feeling
+(They/play) __________ football for an hour before it started to rain. - had been playing
+(He/look) __________ for a job for months before he found one. - had been looking
+(We/not/see) __________ each other for years before the reunion. - had not been seeing
+(You/live) __________ in London before you moved here? - had you been living
+(She/clean) __________ the house all morning before the guests arrived. - had been cleaning
+(They/wait) __________ at the station for an hour before the train arrived. - had been waiting
+(He/not/exercise) __________ regularly before he joined the gym. - had not been exercising
+(We/discuss) __________ the issue for hours before we reached a conclusion. - had been discussing
+(You/learn) __________ English before you moved to the UK? - had you been learning
+(She/not/sleep) __________ well before the exam. - had not been sleeping
+(They/live) __________ in the old house for years before they moved. - had been living
+(He/read) __________ the book before he lost it. - had been reading
+(We/not/eat) __________ anything before the dinner was served. - had not been eating
+
 ## Future Simple
 (We/go) __________ on vacation next month. - will go
 (She/not/stay) __________ for dinner. - will not stay
@@ -209,6 +297,72 @@
 (He/help) __________ you with your homework. - will help
 (I/not/go) __________ to the gym tomorrow. - will not go
 (You/buy) __________ the tickets online? - will you buy
+
+## Future Continuous
+(She/work) __________ tomorrow at this time. - will be working
+(They/not/sleep) __________ when you arrive. - will not be sleeping
+(He/study) __________ for his exams at 8 PM. - will be studying
+(We/wait) __________ for you at the station. - will be waiting
+(I/live) __________ in London next year. - will be living
+(You/work) __________ tomorrow at 9 AM? - will you be working
+(She/not/drive) __________ when you call. - will not be driving
+(They/play) __________ football at the park in the evening. - will be playing
+(He/watch) __________ TV when I visit him. - will be watching
+(We/not/eat) __________ at home tonight. - will not be eating
+(You/wait) __________ for her at the café? - will you be waiting
+(She/study) __________ at the library tomorrow. - will be studying
+(They/not/work) __________ on the weekend. - will not be working
+(He/read) __________ a book when I arrive. - will be reading
+(We/play) __________ a game when you join us. - will be playing
+(You/visit) __________ your parents next weekend? - will you be visiting
+(She/not/cook) __________ when I come home. - will not be cooking
+(They/sing) __________ at the concert tomorrow. - will be singing
+(He/not/attend) __________ the meeting at that time. - will not be attending
+(We/wait) __________ for the bus when you arrive. - will be waiting
+
+## Future Perfect
+(She/finish) __________ her homework by 8 PM. - will have finished
+(They/not/arrive) __________ by the time the movie starts. - will not have arrived
+(He/complete) __________ the project by next week. - will have completed
+(We/move) __________ to a new house by the end of the month. - will have moved
+(I/read) __________ this book by tomorrow. - will have read
+(You/finish) __________ your work by the deadline? - will you have finished
+(She/not/leave) __________ before you arrive. - will not have left
+(They/graduate) __________ by the time I start university. - will have graduated
+(He/save) __________ enough money by next year. - will have saved
+(We/not/eat) __________ before the guests arrive. - will not have eaten
+(You/finish) __________ your assignment by Monday? - will you have finished
+(She/not/arrive) __________ by then. - will not have arrived
+(They/build) __________ the house by next summer. - will have built
+(He/not/finish) __________ his book by the end of the year. - will not have finished
+(We/save) __________ enough for a new car by December. - will have saved
+(You/pack) __________ your bags by the time I get there? - will you have packed
+(She/not/clean) __________ the house by the time her parents come. - will not have cleaned
+(They/learn) __________ to drive by the end of the course. - will have learned
+(He/not/write) __________ the report by tomorrow. - will not have written
+(We/finish) __________ dinner by the time you arrive. - will have finished
+
+## Future Perfect Continuous
+(She/work) __________ at the company for three years by next month. - will have been working
+(They/not/live) __________ here for long by next year. - will not have been living
+(He/study) __________ for five hours by the time you come. - will have been studying
+(We/wait) __________ for you for an hour by 6 PM. - will have been waiting
+(I/live) __________ in this city for ten years by the end of the year. - will have been living
+(You/work) __________ at the office for a month by the time you get a promotion? - will you have been working
+(She/not/work) __________ on the project for long by then. - will not have been working
+(They/play) __________ football for two hours by the time it gets dark. - will have been playing
+(He/watch) __________ TV for three hours by the time I visit him. - will have been watching
+(We/not/eat) __________ for six hours by the time dinner is ready. - will not have been eating
+(You/wait) __________ for me long by the time I arrive? - will you have been waiting
+(She/study) __________ for the exam for weeks by the time she takes it. - will have been studying
+(They/not/work) __________ here for long by the end of the month. - will not have been working
+(He/read) __________ this book for days by the time he finishes it. - will have been reading
+(We/play) __________ this game for hours by the time you join us. - will have been playing
+(You/live) __________ here for a year by next summer? - will you have been living
+(She/not/cook) __________ for long by the time you get home. - will not have been cooking
+(They/sing) __________ at the concert for an hour by the time the show ends. - will have been singing
+(He/not/attend) __________ the course for long by the time the semester ends. - will not have been attending
+(We/wait) __________ for the bus for 30 minutes by the time it arrives. - will have been waiting
 
 # Уровень B1-B2
 
@@ -296,6 +450,50 @@
 (We/discuss) __________ the budget for the next quarter. - are discussing
 (You/prepare) __________ for your exams? - are you preparing
 
+## Present Perfect
+(She/not/decide) __________ on the university she wants to attend. - has not decided
+(They/complete) __________ their research for the project. - have completed
+(He/achieve) __________ many of his goals this year. - has achieved
+(We/never/experience) __________ such cold weather before. - have never experienced
+(I/just/realize) __________ I left my keys at home. - have just realized
+(You/finish) __________ reading the book yet? - have you finished
+(She/never/tried) __________ sushi before. - has never tried
+(They/discover) __________ a new species in the rainforest. - have discovered
+(He/not/visit) __________ his grandparents in years. - has not visited
+(We/lose) __________ contact with them. - have lost
+(You/ever/been) __________ to Australia? - have you ever been
+(She/not/heard) __________ from him in a long time. - has not heard
+(They/just/move) __________ to a new city. - have just moved
+(He/not/completed) __________ his assignment yet. - has not completed
+(We/recently/seen) __________ a significant improvement in sales. - have recently seen
+(You/ever/thought) __________ of changing careers? - have you ever thought
+(She/not/finished) __________ her homework yet. - has not finished
+(They/never/traveled) __________ abroad before. - have never traveled
+(He/just/started) __________ a new job. - has just started
+(We/not/visited) __________ that museum yet. - have not visited
+
+## Present Perfect Continuous
+(She/study) __________ for her exams all week. - has been studying
+(They/work) __________ on this project for months. - have been working
+(He/not/sleep) __________ well recently. - has not been sleeping
+(We/live) __________ in this city for years. - have been living
+(I/read) __________ this book for hours. - have been reading
+(You/practice) __________ the piano? - have you been practicing
+(She/feel) __________ better since she started exercising. - has been feeling
+(They/play) __________ football every evening. - have been playing
+(He/look) __________ for a new job. - has been looking
+(We/not/see) __________ each other for a long time. - have not been seeing
+(You/work) __________ on your thesis for a while? - have you been working
+(She/not/study) __________ much lately. - has not been studying
+(They/learn) __________ Spanish for the past six months. - have been learning
+(He/exercise) __________ regularly. - has been exercising
+(We/discuss) __________ this issue for hours. - have been discussing
+(You/work) __________ late these days? - have you been working
+(She/try) __________ to find a solution to the problem. - has been trying
+(They/not/eat) __________ much today. - have not been eating
+(He/live) __________ in the same house for decades. - has been living
+(We/preparing) __________ for the presentation all day. - have been preparing
+
 ## Past Simple
 (They/finish) __________ their homework before dinner. - finished
 (She/not/enjoy) __________ the concert last night. - did not enjoy
@@ -380,6 +578,50 @@
 (We/not/drive) __________ when the accident occurred. - were not driving
 (You/speak) __________ to your boss when I saw you? - were you speaking
 
+## Past Perfect
+(She/not/read) __________ the book before the class discussion. - had not read
+(They/complete) __________ their homework before the deadline. - had completed
+(He/not/seen) __________ his friends in years before the reunion. - had not seen
+(We/make) __________ plans to travel before the pandemic. - had made
+(I/already/know) __________ about the surprise before they told me. - had already known
+(You/ever/hear) __________ of that artist before? - had you ever heard
+(She/not/finish) __________ her assignment before the class started. - had not finished
+(They/leave) __________ by the time we arrived. - had left
+(He/never/be) __________ to London before last year. - had never been
+(We/already/eat) __________ before we went out. - had already eaten
+(You/ever/visit) __________ that museum before? - had you ever visited
+(She/not/see) __________ him before the party. - had not seen
+(They/sell) __________ their house before moving to Spain. - had sold
+(He/not/finish) __________ his coffee when he was called. - had not finished
+(We/know) __________ each other for a long time before we became friends. - had known
+(You/ever/be) __________ to New York before? - had you ever been
+(She/not/meet) __________ her new boss before the interview. - had not met
+(They/already/move) __________ out before we arrived. - had already moved
+(He/not/pay) __________ the bill before he left. - had not paid
+(We/just/leave) __________ when it started to rain. - had just left
+
+## Past Perfect Continuous
+(She/work) __________ on the project for months before it was completed. - had been working
+(They/not/live) __________ here long before they moved out. - had not been living
+(He/study) __________ for hours before he took a break. - had been studying
+(We/wait) __________ for a long time before the bus arrived. - had been waiting
+(I/work) __________ on my thesis for weeks before I submitted it. - had been working
+(You/exercise) __________ regularly before the injury? - had you been exercising
+(She/not/feel) __________ well for days before she went to the doctor. - had not been feeling
+(They/live) __________ in the same house for years before they moved out. - had been living
+(He/learn) __________ Spanish for a year before he traveled to Spain. - had been learning
+(We/not/see) __________ each other for a long time before the reunion. - had not been seeing
+(You/work) __________ on this project before the new one started? - had you been working
+(She/not/study) __________ much before the exam. - had not been studying
+(They/wait) __________ for an hour before the train arrived. - had been waiting
+(He/exercise) __________ regularly before he fell ill. - had been exercising
+(We/discuss) __________ the matter for hours before we reached a conclusion. - had been discussing
+(You/live) __________ here long before you moved out? - had you been living
+(She/not/sleep) __________ well before she got a new mattress. - had not been sleeping
+(They/play) __________ football for hours before the rain started. - had been playing
+(He/read) __________ the book before he lost it. - had been reading
+(We/prepare) __________ for the trip for weeks before we left. - had been preparing
+
 ## Future Simple
 (We/not/start) __________ the project until next week. - will not start
 (She/visit) __________ her family this weekend. - will visit
@@ -421,6 +663,72 @@
 (They/not/visit) __________ the museum on their trip. - will not visit
 (He/take) __________ care of the arrangements. - will take
 (We/meet) __________ at the café at 3 PM. - will meet
+
+## Future Continuous
+(She/travel) __________ to Japan next summer. - will be traveling
+(They/not/work) __________ on the weekend. - will not be working
+(He/study) __________ at the library tomorrow morning. - will be studying
+(We/wait) __________ for you at the café. - will be waiting
+(I/live) __________ in New York next year. - will be living
+(You/work) __________ late tomorrow night? - will you be working
+(She/not/watch) __________ TV when I arrive. - will not be watching
+(They/play) __________ tennis in the park this evening. - will be playing
+(He/work) __________ on the project when you visit. - will be working
+(We/not/eat) __________ at home tonight. - will not be eating
+(You/wait) __________ for her at the station? - will you be waiting
+(She/study) __________ at the library tomorrow afternoon. - will be studying
+(They/not/work) __________ during the holidays. - will not be working
+(He/read) __________ a book when I call him. - will be reading
+(We/play) __________ football when you arrive. - will be playing
+(You/travel) __________ to Europe this summer? - will you be traveling
+(She/not/cook) __________ when I get home. - will not be cooking
+(They/sing) __________ at the concert tomorrow night. - will be singing
+(He/not/attend) __________ the meeting at that time. - will not be attending
+(We/wait) __________ for you at the airport when you arrive. - will be waiting
+
+## Future Perfect
+(She/graduate) __________ by the time you return. - will have graduated
+(They/not/finish) __________ the project by the deadline. - will not have finished
+(He/complete) __________ the assignment by tomorrow. - will have completed
+(We/move) __________ into the new house by next month. - will have moved
+(I/finish) __________ my work by then. - will have finished
+(You/complete) __________ the task by tomorrow? - will you have completed
+(She/not/arrive) __________ by the time we leave. - will not have arrived
+(They/graduate) __________ by next year. - will have graduated
+(He/save) __________ enough money for a new car by the end of the year. - will have saved
+(We/not/eat) __________ by the time you arrive. - will not have eaten
+(You/finish) __________ the book by the weekend? - will you have finished
+(She/not/finish) __________ the report by the time the meeting starts. - will not have finished
+(They/build) __________ the house by the end of the year. - will have built
+(He/not/finish) __________ the book by then. - will not have finished
+(We/save) __________ enough for a vacation by summer. - will have saved
+(You/pack) __________ your bags by tomorrow morning? - will you have packed
+(She/not/clean) __________ the house by the time we get there. - will not have cleaned
+(They/learn) __________ a lot by the end of the course. - will have learned
+(He/not/write) __________ the report by the end of the day. - will not have written
+(We/finish) __________ the project by the deadline. - will have finished
+
+## Future Perfect Continuous
+(She/work) __________ at this company for five years by next month. - will have been working
+(They/not/live) __________ here for long by the end of the year. - will not have been living
+(He/study) __________ for six hours by the time you arrive. - will have been studying
+(We/wait) __________ for you for an hour by 5 PM. - will have been waiting
+(I/live) __________ in this apartment for two years by the time I move out. - will have been living
+(You/work) __________ on this project for a month by the time it is completed? - will you have been working
+(She/not/work) __________ on the project for long by then. - will not have been working
+(They/play) __________ football for three hours by the time it gets dark. - will have been playing
+(He/watch) __________ TV for four hours by the time I visit him. - will have been watching
+(We/not/eat) __________ for five hours by the time dinner is ready. - will not have been eating
+(You/wait) __________ for her long by the time she arrives? - will you have been waiting
+(She/study) __________ for the exam for weeks by the time she takes it. - will have been studying
+(They/not/work) __________ here for long by the end of the year. - will not have been working
+(He/read) __________ this book for days by the time he finishes it. - will have been reading
+(We/play) __________ this game for hours by the time you join us. - will have been playing
+(You/live) __________ in this city for a year by next summer? - will you have been living
+(She/not/cook) __________ for long by the time you arrive. - will not have been cooking
+(They/sing) __________ at the concert for an hour by the time it ends. - will have been singing
+(He/not/attend) __________ the course for long by the time the semester ends. - will not have been attending
+(We/wait) __________ for the bus for half an hour by the time it arrives. - will have been waiting
 
 # Уровень C1-C2
 
@@ -508,6 +816,50 @@
 (They/interpret) __________ the data from a new perspective. - are interpreting
 (He/not/acknowledge) __________ the efforts of his colleagues. - is not acknowledging
 
+## Present Perfect
+(She/not/comprehend) __________ the full implications of the decision. - has not comprehended
+(They/accomplished) __________ significant milestones in their research. - have accomplished
+(He/developed) __________ a new theory that challenges existing paradigms. - has developed
+(We/not/encounter) __________ such complex challenges before. - have not encountered
+(I/recently/discovered) __________ a new interest in quantum mechanics. - have recently discovered
+(You/ever/considered) __________ changing your approach to the problem? - have you ever considered
+(She/never/experienced) __________ failure at this scale. - has never experienced
+(They/identified) __________ several key factors that influence the outcome. - have identified
+(He/not/attended) __________ any of the recent conferences. - has not attended
+(We/revised) __________ our strategy in light of new evidence. - have revised
+(You/ever/explored) __________ alternative methods? - have you ever explored
+(She/not/completed) __________ her research yet. - has not completed
+(They/recognized) __________ the need for further investigation. - have recognized
+(He/not/proposed) __________ any viable solutions so far. - has not proposed
+(We/seen) __________ a significant improvement in performance. - have seen
+(You/ever/challenged) __________ the existing norms? - have you ever challenged
+(She/not/finished) __________ analyzing the data yet. - has not finished
+(They/established) __________ a strong foundation for future research. - have established
+(He/not/acknowledged) __________ the contributions of his team. - has not acknowledged
+(We/acquired) __________ new insights into the problem. - have acquired
+
+## Present Perfect Continuous
+(She/advocate) __________ for policy changes for years. - has been advocating
+(They/conduct) __________ experiments for months. - have been conducting
+(He/not/consider) __________ the ethical implications. - has not been considering
+(We/engage) __________ in this debate for a long time. - have been engaging
+(I/explore) __________ different methodologies in my research. - have been exploring
+(You/reflect) __________ on this issue lately? - have you been reflecting
+(She/not/focus) __________ on the most critical issues. - has not been focusing
+(They/investigate) __________ the matter thoroughly. - have been investigating
+(He/examine) __________ the data for potential errors. - has been examining
+(We/not/pursue) __________ alternative solutions. - have not been pursuing
+(You/analyze) __________ the feedback from the study? - have you been analyzing
+(She/not/integrate) __________ new technologies into her work. - has not been integrating
+(They/review) __________ the policy for potential improvements. - have been reviewing
+(He/consider) __________ the consequences of his decisions. - has been considering
+(We/develop) __________ a new framework for analysis. - have been developing
+(You/experiment) __________ with new techniques? - have you been experimenting
+(She/not/participate) __________ actively in the discussions. - has not been participating
+(They/research) __________ the topic extensively. - have been researching
+(He/not/address) __________ the underlying issues. - has not been addressing
+(We/refine) __________ our approach based on recent findings. - have been refining
+
 ## Past Simple
 (The researcher/discover) __________ a groundbreaking method in the field of nanotechnology. - discovered
 (They/not/consider) __________ all the variables in the initial study. - did not consider
@@ -592,6 +944,50 @@
 (He/not/anticipate) __________ the outcome when he made the decision. - was not anticipating
 (The team/assess) __________ the situation when the changes happened. - was assessing
 
+## Past Perfect
+(She/not/anticipate) __________ the challenges before they arose. - had not anticipated
+(They/acquired) __________ new skills before starting the project. - had acquired
+(He/underestimate) __________ the complexity of the task. - had underestimated
+(We/not/consider) __________ all the variables before making a decision. - had not considered
+(I/achieved) __________ significant progress before the setback. - had achieved
+(You/research) __________ this topic before writing your paper? - had you researched
+(She/not/consulted) __________ the experts before proceeding. - had not consulted
+(They/established) __________ a solid foundation before expanding their operations. - had established
+(He/not/appreciate) __________ the gravity of the situation until it was too late. - had not appreciated
+(We/completed) __________ the project before the deadline. - had completed
+(You/analyze) __________ the data thoroughly before presenting your findings? - had you analyzed
+(She/not/addressed) __________ the underlying issues in her report. - had not addressed
+(They/identified) __________ the root cause before implementing the solution. - had identified
+(He/not/reviewed) __________ the document before submitting it. - had not reviewed
+(We/refined) __________ our methods before applying them to the new study. - had refined
+(You/discussed) __________ the matter with your colleagues before making a decision? - had you discussed
+(She/not/acknowledged) __________ the contributions of her team. - had not acknowledged
+(They/implemented) __________ several changes before the problem was resolved. - had implemented
+(He/not/predicted) __________ the outcome accurately. - had not predicted
+(We/achieved) __________ significant milestones before the funding was cut. - had achieved
+
+## Past Perfect Continuous
+(She/advocate) __________ for change for years before it was implemented. - had been advocating
+(They/conduct) __________ research for months before they published the results. - had been conducting
+(He/not/consider) __________ all the factors before making the decision. - had not been considering
+(We/engage) __________ in negotiations for a long time before reaching an agreement. - had been engaging
+(I/explore) __________ various theories before I settled on this one. - had been exploring
+(You/reflect) __________ on the feedback before you made changes? - had you been reflecting
+(She/not/focus) __________ on the key issues before the review. - had not been focusing
+(They/investigate) __________ the situation for weeks before drawing conclusions. - had been investigating
+(He/examine) __________ the possibilities before the meeting. - had been examining
+(We/not/pursue) __________ this course of action before the suggestion was made. - had not been pursuing
+(You/analyze) __________ the data for long before you discovered the error? - had you been analyzing
+(She/not/integrate) __________ the new tools into her process before the deadline. - had not been integrating
+(They/review) __________ the strategy continuously before implementing it. - had been reviewing
+(He/consider) __________ the feedback before making his final decision. - had been considering
+(We/develop) __________ this theory for years before it gained recognition. - had been developing
+(You/experiment) __________ with different methods before you found the best one? - had you been experimenting
+(She/not/participate) __________ fully in the discussions before the project started. - had not been participating
+(They/research) __________ the market trends before launching the product. - had been researching
+(He/not/address) __________ the key concerns before the issue escalated. - had not been addressing
+(We/refine) __________ our approach for years before we perfected it. - had been refining
+
 ## Future Simple
 (The company/revolutionize) __________ the industry with its new product. - will revolutionize
 (She/not/overlook) __________ any details in her analysis. - will not overlook
@@ -633,3 +1029,69 @@
 (They/not/overlook) __________ any important details. - will not overlook
 (He/lead) __________ the team in the new project. - will lead
 (The organization/advocate) __________ for policy changes. - will advocate
+
+## Future Continuous
+(She/advocate) __________ for policy reform at the upcoming meeting. - will be advocating
+(They/conduct) __________ a series of experiments next month. - will be conducting
+(He/not/focus) __________ on this aspect during his presentation. - will not be focusing
+(We/engage) __________ in further discussions tomorrow. - will be engaging
+(I/explore) __________ new research avenues next semester. - will be exploring
+(You/reflect) __________ on these issues in your next paper? - will you be reflecting
+(She/not/participate) __________ in the event next week. - will not be participating
+(They/investigate) __________ the new data thoroughly next quarter. - will be investigating
+(He/examine) __________ the recent findings in his lecture. - will be examining
+(We/not/pursue) __________ this strategy any longer. - will not be pursuing
+(You/analyze) __________ the new data set soon? - will you be analyzing
+(She/not/integrate) __________ these changes immediately. - will not be integrating
+(They/review) __________ the current policy next year. - will be reviewing
+(He/consider) __________ alternative approaches in his next study. - will be considering
+(We/develop) __________ a new strategy over the next few months. - will be developing
+(You/experiment) __________ with new techniques in your next project? - will you be experimenting
+(She/not/oversee) __________ the project directly. - will not be overseeing
+(They/research) __________ the long-term effects in their future studies. - will be researching
+(He/not/address) __________ this issue in his next speech. - will not be addressing
+(We/refine) __________ our processes as we gain more data. - will be refining
+
+## Future Perfect
+(She/completed) __________ her research by the end of the semester. - will have completed
+(They/implemented) __________ the new policy by the end of the year. - will have implemented
+(He/not/finished) __________ writing the paper by the deadline. - will not have finished
+(We/accomplished) __________ all our objectives by next quarter. - will have accomplished
+(I/achieved) __________ significant progress by the time you return. - will have achieved
+(You/completed) __________ your analysis by next week? - will you have completed
+(She/not/concluded) __________ her study by the time the conference starts. - will not have concluded
+(They/established) __________ a strong foundation by the time the project begins. - will have established
+(He/not/appreciated) __________ the full scope of the challenge by then. - will not have appreciated
+(We/acquired) __________ the necessary skills by the end of the course. - will have acquired
+(You/finished) __________ the literature review by then? - will you have finished
+(She/not/acknowledged) __________ the contributions by the time the report is published. - will not have acknowledged
+(They/implemented) __________ the recommended changes by the time the audit occurs. - will have implemented
+(He/not/predicted) __________ all the potential outcomes by then. - will not have predicted
+(We/achieved) __________ significant results by the end of the study. - will have achieved
+(You/reviewed) __________ all the feedback by the time the revision is due? - will you have reviewed
+(She/not/analyzed) __________ the data thoroughly by the time the meeting occurs. - will not have analyzed
+(They/established) __________ the necessary protocols by the time the new system is implemented. - will have established
+(He/not/acknowledged) __________ the challenges fully by then. - will not have acknowledged
+(We/acquired) __________ all the required resources by the time the project starts. - will have acquired
+
+## Future Perfect Continuous
+(She/work) __________ on her thesis for two years by the time she defends it. - will have been working
+(They/conduct) __________ research for months by the time they publish. - will have been conducting
+(He/not/consider) __________ this approach for long before making a decision. - will not have been considering
+(We/engage) __________ in discussions for weeks by the time we reach an agreement. - will have been engaging
+(I/explore) __________ different theories for a while by the time I finalize my proposal. - will have been exploring
+(You/reflect) __________ on these concepts for some time by the next meeting? - will you have been reflecting
+(She/not/focus) __________ on this issue for long before she moves on to another topic. - will not have been focusing
+(They/investigate) __________ the problem thoroughly for months by the time they solve it. - will have been investigating
+(He/examine) __________ the evidence for days by the time he presents his findings. - will have been examining
+(We/not/pursue) __________ this strategy for long before considering alternatives. - will not have been pursuing
+(You/analyze) __________ the data for hours by the time the report is due? - will you have been analyzing
+(She/not/integrate) __________ the new methodology for long before evaluating its effectiveness. - will not have been integrating
+(They/review) __________ the project’s progress regularly by the time it’s completed. - will have been reviewing
+(He/consider) __________ all the feedback for a long time by the time he finalizes his plan. - will have been considering
+(We/develop) __________ this approach for years by the time it is fully implemented. - will have been developing
+(You/experiment) __________ with various techniques for a while by the time you make your final decision? - will you have been experimenting
+(She/not/oversee) __________ the project closely for long before handing it over to another manager. - will not have been overseeing
+(They/research) __________ the effects of this policy for years by the time it’s reviewed. - will have been researching
+(He/not/address) __________ the underlying issues for long before the deadline. - will not have been addressing
+(We/refine) __________ our methodology continuously by the time the final results are published. - will have been refining
