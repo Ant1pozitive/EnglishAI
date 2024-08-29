@@ -2,6 +2,7 @@ import asyncio
 import difflib
 import logging
 import random
+import json  # Новая библиотека для работы с JSON
 from datetime import datetime, timedelta
 from pathlib import Path
 from contextlib import asynccontextmanager
@@ -11,7 +12,7 @@ import contractions
 import openai
 from aiogram import Bot, Dispatcher, types, F
 from aiogram.client.default import DefaultBotProperties
-from aiogram.filters import StateFilter, CommandStart
+from aiogram.filters import StateFilter, CommandStart, Command  # Добавлен Command
 from aiogram.fsm.state import State, StatesGroup
 from aiogram.types import Message, InlineKeyboardButton, InlineKeyboardMarkup, KeyboardButton, ReplyKeyboardMarkup, \
     FSInputFile
@@ -25,6 +26,7 @@ from sqlalchemy import Column, String, Integer, Text, ForeignKey, and_
 from sqlalchemy.orm import sessionmaker
 
 import config
+from buttons import *
 
 # Настройка логирования
 logging.basicConfig(
@@ -61,6 +63,28 @@ async def session_scope() -> AsyncSession:
         raise
     finally:
         await session.close()
+
+# Кэширование озвучки
+speech_cache = {}
+
+async def generate_speech(word: str) -> str:
+    """Генерация озвучки для слова с использованием OpenAI, с кэшированием."""
+    if word in speech_cache:
+        return speech_cache[word]
+
+    speech_file_path = Path(f"speech_{word}.mp3")
+    try:
+        with client.audio.speech.with_streaming_response.create(
+                model="tts-1-hd",
+                voice="alloy",
+                input=word
+        ) as response:
+            response.stream_to_file(speech_file_path)
+        speech_cache[word] = speech_file_path
+    finally:
+        if not speech_file_path.exists():
+            speech_file_path.unlink()
+    return speech_cache[word]
 
 # Модели базы данных
 class User(Base):
@@ -109,7 +133,16 @@ dp = Dispatcher()
 router = Router()
 scheduler = AsyncIOScheduler()
 
-""" Функции для работы с базой данных """
+# Загрузка конфигураций из JSON
+def load_configurations():
+    with open('configurations.json', 'r', encoding='utf-8') as f:
+        return json.load(f)
+
+configurations = load_configurations()
+
+LEVEL_MAPPING = configurations['LEVEL_MAPPING']
+GREETINGS = configurations['GREETINGS']
+REMINDER_MESSAGES = configurations['REMINDER_MESSAGES']
 
 async def get_user(session: AsyncSession, chat_id: int) -> Optional[User]:
     """Получение пользователя по chat_id из базы данных."""
@@ -218,7 +251,7 @@ async def schedule_notifications(chat_id: int, days: List[str], time: str, langu
 
 async def send_reminder(chat_id: int, language: str) -> None:
     """Отправка уведомления пользователю."""
-    reminder_messages_local = config.REMINDER_MESSAGES.get(language, config.REMINDER_MESSAGES['en'])
+    reminder_messages_local = REMINDER_MESSAGES.get(language, REMINDER_MESSAGES['en'])
     await bot.send_message(chat_id, random.choice(reminder_messages_local))
 
 """ Обработка команды /start """
@@ -571,7 +604,7 @@ async def send_practice_info(chat_id: int, state: FSMContext, language: str) -> 
     async with session_scope() as session:
         user = await get_user(session, chat_id)
         level = user.level if user else 'A1'
-    mapped_level = config.LEVEL_MAPPING.get(level, 'A1-A2')
+    mapped_level = LEVEL_MAPPING.get(level, 'A1-A2')
     await send_practice_options(chat_id, mapped_level, state, language)
 
 async def send_practice_exercise(chat_id: int, level: str, rule: str, state: FSMContext, language: str) -> None:
@@ -626,7 +659,7 @@ async def handle_practice_selection(callback_query: types.CallbackQuery, state: 
         language = user.language if user else 'en'
         level = user.level if user else 'A1'
 
-    mapped_level = config.LEVEL_MAPPING.get(level, 'A1-A2')
+    mapped_level = LEVEL_MAPPING.get(level, 'A1-A2')
 
     logger.info(f"User {chat_id} selected rule {rule} for practice.")
 
@@ -646,28 +679,31 @@ async def handle_practice_message(message: Message, state: FSMContext) -> None:
         correct_answer_normalized = contractions.fix(correct_answer.strip().lower())
         text_normalized = contractions.fix(message.text.strip().lower())
 
-        async with session_scope() as session:
-            user = await get_user(session, chat_id)
-            language = user.language if user and user.language else 'en'
+        # Удаляем местоимения из начала правильного ответа и ответа пользователя
+        correct_answer_words = correct_answer_normalized.split()
+        user_answer_words = text_normalized.split()
 
-        if text_normalized == correct_answer_normalized or difflib.SequenceMatcher(None, text_normalized,
-                                                                                   correct_answer_normalized).ratio() > 0.9:
-            await bot.send_message(chat_id, "Correct!" if language == 'en' else "Правильно!",
-                                   reply_markup=create_continue_back_buttons(language))
+        # Игнорируем первое слово, если оно местоимение
+        if user_answer_words and user_answer_words[0] in ["i", "you", "he", "she", "it", "we", "they"]:
+            user_answer_words = user_answer_words[1:]
+
+        if correct_answer_words and correct_answer_words[0] in ["i", "you", "he", "she", "it", "we", "they"]:
+            correct_answer_words = correct_answer_words[1:]
+
+        correct_answer_normalized = " ".join(correct_answer_words)
+        text_normalized = " ".join(user_answer_words)
+
+        # Сравнение ответа с допустимой погрешностью
+        if text_normalized == correct_answer_normalized or difflib.SequenceMatcher(None, text_normalized, correct_answer_normalized).ratio() > 0.9:
+            await bot.send_message(chat_id, "Correct!" if data.get('language', 'en') == 'en' else "Правильно!",
+                                   reply_markup=create_continue_back_buttons(data.get('language', 'en')))
         else:
-            await bot.send_message(chat_id,
-                                   f"Incorrect. The correct answer is: {correct_answer}" if language == 'en' else f"Неправильно. Правильный ответ: {correct_answer}",
-                                   reply_markup=create_continue_back_buttons(language))
+            await bot.send_message(chat_id, f"Incorrect. The correct answer is: {correct_answer}" if data.get('language', 'en') == 'en' else f"Неправильно. Правильный ответ: {correct_answer}",
+                                   reply_markup=create_continue_back_buttons(data.get('language', 'en')))
 
         await state.update_data(current_exercise=None)
     else:
-        async with session_scope() as session:
-            user = await get_user(session, chat_id)
-            language = user.language if user and user.language else 'en'
-
-        await bot.send_message(chat_id,
-                               "Please select a grammar rule to start practicing." if language == 'en' else "Пожалуйста, выберите правило грамматики для начала практики.",
-                               reply_markup=create_navigation_buttons(language))
+        await bot.send_message(chat_id, "Please select a grammar rule to start practicing." if data.get('language', 'en') == 'en' else "Пожалуйста, выберите правило грамматики для начала практики.")
 
 @router.callback_query(F.data == "continue")
 async def handle_continue(callback_query: types.CallbackQuery, state: FSMContext) -> None:
@@ -788,7 +824,7 @@ async def add_word(message: Message, state: FSMContext) -> None:
         word = word.lower()
         async with session_scope() as session:
             user = await get_user(session, message.chat.id)
-            level = config.LEVEL_MAPPING.get(user.level, 'A1-A2')
+            level = LEVEL_MAPPING.get(user.level, 'A1-A2')
             existing_word = await session.execute(
                 select(Dictionary).filter_by(level=level, word=word.capitalize())
             )
@@ -824,7 +860,7 @@ async def process_dict_action(message: Message, state: FSMContext) -> None:
     chat_id = message.chat.id
     async with session_scope() as session:
         user = await get_user(session, chat_id)
-        level = config.LEVEL_MAPPING.get(user.level, 'A1-A2')
+        level = configurations['LEVEL_MAPPING'].get(user.level, 'A1-A2')
         language = user.language if user else 'en'
 
     if action in ['Add words', 'Добавить слова']:
@@ -884,7 +920,7 @@ async def study_words(message: Message, level: str, state: FSMContext, practice:
 @router.callback_query(F.data.startswith("learn_"))
 async def handle_learn_word(callback_query: types.CallbackQuery) -> None:
     """Обработка выбора слова для изучения."""
-    word = callback_query.data[len("learn_"):]  # Получаем слово
+    word = callback_query.data[len("learn_"):]
 
     async with session_scope() as session:
         word_entry = await session.execute(select(Dictionary).filter(Dictionary.word == word))
@@ -951,7 +987,7 @@ async def check_translation(message: Message, state: FSMContext) -> None:
 
     async with session_scope() as session:
         user = await get_user(session, message.chat.id)
-        level = config.LEVEL_MAPPING.get(user.level, 'A1-A2')
+        level = LEVEL_MAPPING.get(user.level, 'A1-A2')
         await state.update_data(training_type="words", level=level)
 
 async def show_word_definition(message: Message) -> None:
@@ -961,7 +997,7 @@ async def show_word_definition(message: Message) -> None:
 
     async with session_scope() as session:
         user = await get_user(session, chat_id)
-        level = config.LEVEL_MAPPING.get(user.level, 'A1-A2')
+        level = LEVEL_MAPPING.get(user.level, 'A1-A2')
         language = user.language if user else 'en'
 
         word_entry = await session.execute(
@@ -1022,7 +1058,7 @@ async def handle_character_choice(callback_query: types.CallbackQuery, state: FS
             language = 'en'
         await session.commit()
 
-    greeting = random.choice(config.GREETINGS[user_level]).format(name=chosen_character)
+    greeting = random.choice(GREETINGS[user_level]).format(name=chosen_character)
 
     if config.CHARACTER_IMAGES.get(chosen_character):
         photo = FSInputFile(config.CHARACTER_IMAGES[chosen_character])
@@ -1032,6 +1068,7 @@ async def handle_character_choice(callback_query: types.CallbackQuery, state: FS
     await bot.send_message(chat_id, greeting, reply_markup=create_back_button(language))
 
     await state.clear()
+
 
 async def send_tts_message(chat_id: int, text: str, voice: str = "echo") -> None:
     """Отправка голосового сообщения пользователю."""
@@ -1152,122 +1189,24 @@ async def handle_voice_message(message: Message, state: FSMContext) -> None:
         if audio_path and audio_path.exists():
             audio_path.unlink()
 
-""" Вспомогательные функции для кнопок """
+@router.message(Command(commands=['level', 'notification', 'grammar', 'practice', 'dictionary', 'talk', 'info']))
+async def handle_command(message: Message, state: FSMContext) -> None:
+    command = message.text[1:].lower()  # Извлечение команды без "/"
+    if command == "level":
+        await handle_level_button(message)
+    elif command == "notification":
+        await handle_notification(message)
+    elif command == "grammar":
+        await handle_grammar_button(message)
+    elif command == "practice":
+        await handle_practice_button(message, state)
+    elif command == "dictionary":
+        await handle_dict_button(message, state)
+    elif command == "talk":
+        await start_talk(message, state)
+    elif command == "info":
+        await handle_info_button(message)
 
-def create_back_button(language: str = 'en') -> InlineKeyboardMarkup:
-    """Создание кнопки возврата в главное меню."""
-    text = "Go back" if language == 'en' else "Вернуться назад"
-    buttons = [[InlineKeyboardButton(text=text, callback_data="go_back")]]
-    return InlineKeyboardMarkup(inline_keyboard=buttons)
-
-def create_continue_back_buttons(language: str = 'en') -> InlineKeyboardMarkup:
-    """Создание кнопок для продолжения или возврата в главное меню."""
-    buttons = [
-        [InlineKeyboardButton(text="Continue" if language == 'en' else "Продолжить", callback_data="continue")],
-        [InlineKeyboardButton(text="Go back" if language == 'en' else "Вернуться назад", callback_data="go_back")]
-    ]
-    return InlineKeyboardMarkup(inline_keyboard=buttons)
-
-def create_navigation_buttons(language: str = 'en') -> ReplyKeyboardMarkup:
-    """Создание кнопок для основного меню."""
-    buttons_en = [
-        [KeyboardButton(text="Level"), KeyboardButton(text="Notification")],
-        [KeyboardButton(text="Grammar"), KeyboardButton(text="Practice")],
-        [KeyboardButton(text="Dictionary"), KeyboardButton(text="Talk")],
-        [KeyboardButton(text="Info")]
-    ]
-
-    buttons_ru = [
-        [KeyboardButton(text="Уровень"), KeyboardButton(text="Уведомление")],
-        [KeyboardButton(text="Грамматика"), KeyboardButton(text="Практика")],
-        [KeyboardButton(text="Словарь"), KeyboardButton(text="Разговор")],
-        [KeyboardButton(text="Информация")]
-    ]
-
-    markup = ReplyKeyboardMarkup(keyboard=buttons_en if language == 'en' else buttons_ru, resize_keyboard=True)
-    return markup
-
-def create_level_buttons(language: str = 'en') -> InlineKeyboardMarkup:
-    """Создание кнопок для выбора уровня языка."""
-    buttons_en = [
-        [InlineKeyboardButton(text=level, callback_data=f"set_level_{level}") for level in
-         ['A1', 'A2', 'B1', 'B2', 'C1', 'C2']],
-        [InlineKeyboardButton(text="I don't know my level", url="https://english.lingolia.com/en/test")]
-    ]
-
-    buttons_ru = [
-        [InlineKeyboardButton(text=level, callback_data=f"set_level_{level}") for level in
-         ['A1', 'A2', 'B1', 'B2', 'C1', 'C2']],
-        [InlineKeyboardButton(text="Я не знаю свой уровень", url="https://english.lingolia.com/en/test")]
-    ]
-
-    return InlineKeyboardMarkup(inline_keyboard=buttons_en if language == 'en' else buttons_ru)
-
-def create_notification_buttons(language: str = 'en') -> ReplyKeyboardMarkup:
-    """Создание кнопок для настройки уведомлений."""
-    buttons_en = [
-        [KeyboardButton(text="Enable Notifications"), KeyboardButton(text="Disable Notifications")]
-    ]
-
-    buttons_ru = [
-        [KeyboardButton(text="Включить уведомления"), KeyboardButton(text="Отключить уведомления")]
-    ]
-
-    return ReplyKeyboardMarkup(keyboard=buttons_en if language == 'en' else buttons_ru, resize_keyboard=True)
-
-def create_days_buttons(selected_days: List[str], language: str = 'en') -> InlineKeyboardMarkup:
-    """Создание кнопок для выбора дней недели для уведомлений."""
-    day_translations = {
-        'Monday': 'Понедельник',
-        'Tuesday': 'Вторник',
-        'Wednesday': 'Среда',
-        'Thursday': 'Четверг',
-        'Friday': 'Пятница',
-        'Saturday': 'Суббота',
-        'Sunday': 'Воскресенье'
-    }
-
-    buttons = [
-        [InlineKeyboardButton(
-            text=f"Monday {'✅' if 'Monday' in selected_days else ''}" if language == 'en' else f"{day_translations['Monday']} {'✅' if 'Monday' in selected_days else ''}",
-            callback_data="toggle_Monday")],
-        [InlineKeyboardButton(
-            text=f"Tuesday {'✅' if 'Tuesday' in selected_days else ''}" if language == 'en' else f"{day_translations['Tuesday']} {'✅' if 'Tuesday' in selected_days else ''}",
-            callback_data="toggle_Tuesday")],
-        [InlineKeyboardButton(
-            text=f"Wednesday {'✅' if 'Wednesday' in selected_days else ''}" if language == 'en' else f"{day_translations['Wednesday']} {'✅' if 'Wednesday' in selected_days else ''}",
-            callback_data="toggle_Wednesday")],
-        [InlineKeyboardButton(
-            text=f"Thursday {'✅' if 'Thursday' in selected_days else ''}" if language == 'en' else f"{day_translations['Thursday']} {'✅' if 'Thursday' in selected_days else ''}",
-            callback_data="toggle_Thursday")],
-        [InlineKeyboardButton(
-            text=f"Friday {'✅' if 'Friday' in selected_days else ''}" if language == 'en' else f"{day_translations['Friday']} {'✅' if 'Friday' in selected_days else ''}",
-            callback_data="toggle_Friday")],
-        [InlineKeyboardButton(
-            text=f"Saturday {'✅' if 'Saturday' in selected_days else ''}" if language == 'en' else f"{day_translations['Saturday']} {'✅' if 'Saturday' in selected_days else ''}",
-            callback_data="toggle_Saturday")],
-        [InlineKeyboardButton(
-            text=f"Sunday {'✅' if 'Sunday' in selected_days else ''}" if language == 'en' else f"{day_translations['Sunday']} {'✅' if 'Sunday' in selected_days else ''}",
-            callback_data="toggle_Sunday")],
-        [InlineKeyboardButton(text="Save" if language == 'en' else "Сохранить", callback_data="save_days")]
-    ]
-    return InlineKeyboardMarkup(inline_keyboard=buttons)
-
-def create_dict_menu_buttons(language: str = 'en') -> ReplyKeyboardMarkup:
-    """Создание кнопок для меню словаря."""
-    buttons_en = [
-        [KeyboardButton(text='Add words'), KeyboardButton(text='Practice words')],
-        [KeyboardButton(text='Learn words'), KeyboardButton(text='See the meaning of a word')],
-        [KeyboardButton(text='Go back')]
-    ]
-
-    buttons_ru = [
-        [KeyboardButton(text='Добавить слова'), KeyboardButton(text='Практиковать слова')],
-        [KeyboardButton(text='Учить слова'), KeyboardButton(text='Посмотреть значение слова')],
-        [KeyboardButton(text='Вернуться назад')]
-    ]
-
-    return ReplyKeyboardMarkup(keyboard=buttons_en if language == 'en' else buttons_ru, one_time_keyboard=True, resize_keyboard=True)
 
 """ Запуск бота """
 
@@ -1279,4 +1218,3 @@ async def main() -> None:
 
 if __name__ == "__main__":
     asyncio.run(main())
-
