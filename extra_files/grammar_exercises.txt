@@ -1,110 +1,635 @@
 # Уровень A1-A2
 
 ## Present Simple
-1. (I/play) __________ football every day. - play
-2. (She/not/like) __________ chocolate. - does not like
-3. (They/live) __________ in New York. - live
-4. (He/work) __________ at a hospital. - works
-5. (You/speak) __________ English? - do you speak
+(He/drink) __________ tea every morning. - drinks
+(They/not/eat) __________ fish. - do not eat
+(You/go) __________ to school by bike? - do you go
+(We/live) __________ near the park. - live
+(She/speak) __________ Spanish fluently. - speaks
+(He/not/like) __________ early mornings. - does not like
+(You/visit) __________ your grandparents often? - do you visit
+(They/play) __________ in the park every weekend. - play
+(She/wear) __________ glasses. - wears
+(We/not/have) __________ a car. - do not have
+(He/like) __________ pizza? - does he like
+(They/watch) __________ TV every evening. - watch
+(You/not/play) __________ football. - do not play
+(She/read) __________ books before bed. - reads
+(I/not/understand) __________ this lesson. - do not understand
+(They/go) __________ to the gym every day. - go
+(She/not/own) __________ a bike. - does not own
+(He/visit) __________ his friends on weekends. - visits
+(We/not/like) __________ horror movies. - do not like
+(You/speak) __________ French? - do you speak
+(He/not/play) __________ the piano every day. - does not play
+(We/go) __________ to the same school. - go
+(She/not/live) __________ in London. - does not live
+(They/play) __________ football on Sundays? - do they play
+(I/eat) __________ breakfast every morning. - eat
+(You/drink) __________ coffee in the morning? - do you drink
+(He/like) __________ reading books. - likes
+(We/not/watch) __________ TV in the evening. - do not watch
+(She/work) __________ at a hospital. - works
+(They/not/visit) __________ their grandparents every weekend. - do not visit
+(He/walk) __________ to school every day. - walks
+(We/not/go) __________ to the gym every day. - do not go
+(She/speak) __________ French very well. - speaks
+(They/not/like) __________ spicy food. - do not like
+(I/play) __________ the guitar. - play
+(You/go) __________ to the market every Saturday? - do you go
+(He/not/eat) __________ meat. - does not eat
+(We/meet) __________ our friends every Friday. - meet
+(She/not/use) __________ her phone much. - does not use
+(They/enjoy) __________ watching movies. - enjoy
 
 ## Present Continuous
-1. (I/be) __________ reading a book now. - am
-2. (She/not/watch) __________ TV at the moment. - is not watching
-3. (They/play) __________ football in the park. - are playing
-4. (He/work) __________ on a new project. - is working
-5. (You/study) __________ for your exams? - are you studying
+(They/be) __________ studying right now. - are
+(She/not/listen) __________ to music at the moment. - is not listening
+(He/wait) __________ for the bus. - is waiting
+(We/work) __________ on a project this week. - are working
+(I/play) __________ a new video game. - am playing
+(You/watch) __________ the news? - are you watching
+(She/read) __________ a magazine now. - is reading
+(They/plan) __________ a vacation. - are planning
+(He/not/sleep) __________ right now. - is not sleeping
+(I/write) __________ an email. - am writing
+(We/not/cook) __________ dinner tonight. - are not cooking
+(They/play) __________ football at the park. - are playing
+(She/wear) __________ a red dress today. - is wearing
+(You/study) __________ for the test? - are you studying
+(I/work) __________ from home today. - am working
+(He/fix) __________ his car now. - is fixing
+(We/not/prepare) __________ for the meeting yet. - are not preparing
+(They/play) __________ the piano. - are playing
+(She/paint) __________ the walls of her room. - is painting
+(You/clean) __________ your room? - are you cleaning
+(She/watch) __________ TV now. - is watching
+(We/not/eat) __________ dinner at the moment. - are not eating
+(He/play) __________ football right now. - is playing
+(They/walk) __________ to school. - are walking
+(I/not/read) __________ a book at the moment. - am not reading
+(You/sleep) __________? - are you sleeping
+(She/visit) __________ her friend today. - is visiting
+(They/not/talk) __________ about you. - are not talking
+(He/clean) __________ his room now. - is cleaning
+(We/play) __________ a game right now. - are playing
+(She/study) __________ English this week. - is studying
+(I/not/drink) __________ coffee right now. - am not drinking
+(They/run) __________ in the park. - are running
+(You/not/write) __________ a letter now. - are not writing
+(He/paint) __________ his house. - is painting
+(She/cook) __________ dinner now? - is she cooking
+(We/not/listen) __________ to music. - are not listening
+(They/swim) __________ in the pool. - are swimming
+(He/not/play) __________ video games now. - is not playing
+(I/take) __________ a nap. - am taking
 
 ## Past Simple
-1. (I/go) __________ to the cinema yesterday. - went
-2. (She/not/like) __________ the movie. - did not like
-3. (They/live) __________ in London last year. - lived
-4. (He/work) __________ at a cafe. - worked
-5. (You/visit) __________ the museum? - did you visit
+(They/travel) __________ to Italy last summer. - traveled
+(She/not/see) __________ him yesterday. - did not see
+(I/watch) __________ a movie last night. - watched
+(You/buy) __________ a new phone? - did you buy
+(He/talk) __________ to his teacher yesterday. - talked
+(We/not/eat) __________ dinner at home. - did not eat
+(They/win) __________ the game last weekend. - won
+(She/read) __________ that book last year. - read
+(I/visit) __________ my grandmother yesterday. - visited
+(He/call) __________ you? - did he call
+(We/not/finish) __________ the project on time. - did not finish
+(They/play) __________ cards yesterday. - played
+(She/write) __________ a letter to her friend. - wrote
+(I/meet) __________ him last week. - met
+(You/travel) __________ to France? - did you travel
+(He/arrive) __________ late to the meeting. - arrived
+(We/decide) __________ to stay home. - decided
+(They/not/watch) __________ the news last night. - did not watch
+(She/lose) __________ her keys yesterday. - lost
+(I/finish) __________ my homework. - finished
+(She/visit) __________ her grandma last weekend. - visited
+(They/not/go) __________ to the party. - did not go
+(He/buy) __________ a new car last month. - bought
+(I/not/see) __________ him yesterday. - did not see
+(We/travel) __________ to Japan last year. - traveled
+(You/enjoy) __________ the movie? - did you enjoy
+(She/not/finish) __________ her homework. - did not finish
+(They/play) __________ chess yesterday. - played
+(He/write) __________ a letter to his friend. - wrote
+(We/not/win) __________ the match. - did not win
+(She/read) __________ the entire book. - read
+(I/not/understand) __________ the question. - did not understand
+(They/meet) __________ at the café. - met
+(You/not/buy) __________ the ticket? - did not buy
+(He/watch) __________ TV all evening. - watched
+(We/build) __________ a sandcastle yesterday. - built
+(She/not/visit) __________ her aunt last summer. - did not visit
+(They/arrive) __________ late at the airport. - arrived
+(I/not/expect) __________ such a surprise. - did not expect
+(He/take) __________ the wrong bus. - took
 
 ## Past Continuous
-1. (I/be) __________ reading a book when you called. - was
-2. (She/not/watch) __________ TV at that time. - was not watching
-3. (They/play) __________ football when it started to rain. - were playing
-4. (He/work) __________ on a new project all night. - was working
-5. (You/study) __________ when I saw you? - were you studying
+(They/be) __________ waiting for the bus when it started to rain. - were
+(She/not/eat) __________ when I called her. - was not eating
+(I/sleep) __________ when the phone rang. - was sleeping
+(We/watch) __________ a movie when you arrived. - were watching
+(He/work) __________ on his project all night. - was working
+(They/play) __________ basketball when it started to snow. - were playing
+(She/write) __________ an essay when her computer crashed. - was writing
+(I/listen) __________ to music when you called. - was listening
+(You/study) __________ when I saw you? - were you studying
+(He/wait) __________ for the bus. - was waiting
+(We/not/sleep) __________ when you called. - were not sleeping
+(They/talk) __________ about the party when I entered. - were talking
+(She/drive) __________ when the accident happened. - was driving
+(I/read) __________ a book when he arrived. - was reading
+(He/wait) __________ for you at the station. - was waiting
+(They/work) __________ on a new project. - were working
+(We/not/listen) __________ to the teacher. - were not listening
+(You/clean) __________ the house when I called? - were you cleaning
+(She/sing) __________ when I heard her. - was singing
+(I/not/pay) __________ attention when it happened. - was not paying
+(I/sleep) __________ when the alarm rang. - was sleeping
+(She/not/read) __________ a book when I called. - was not reading
+(They/play) __________ in the garden when it started raining. - were playing
+(He/work) __________ on his project when I visited. - was working
+(We/watch) __________ TV when the power went out. - were watching
+(She/drive) __________ when the accident happened. - was driving
+(I/not/listen) __________ to music when you called. - was not listening
+(They/talk) __________ about the party when I entered. - were talking
+(He/run) __________ when he fell down. - was running
+(We/prepare) __________ dinner when the guests arrived. - were preparing
+(She/not/paint) __________ when I saw her. - was not painting
+(They/play) __________ football when it started to rain. - were playing
+(He/study) __________ for his exams all night. - was studying
+(I/not/work) __________ when you texted me. - was not working
+(They/sing) __________ when I arrived. - were singing
+(He/drive) __________ to the office when it happened. - was driving
+(We/not/play) __________ games when you visited. - were not playing
+(She/not/cook) __________ when I entered the kitchen. - was not cooking
+(They/discuss) __________ the project when I joined them. - were discussing
+(He/wait) __________ for the bus when it started raining. - was waiting
 
 ## Future Simple
-1. (I/go) __________ to the cinema tomorrow. - will go
-2. (She/not/like) __________ the new movie. - will not like
-3. (They/live) __________ in Paris next year. - will live
-4. (He/work) __________ at a new company. - will work
-5. (You/visit) __________ the museum? - will you visit
+(We/go) __________ on vacation next month. - will go
+(She/not/stay) __________ for dinner. - will not stay
+(They/arrive) __________ tomorrow morning. - will arrive
+(He/bring) __________ the documents? - will he bring
+(I/buy) __________ a new laptop next week. - will buy
+(You/visit) __________ us next summer? - will you visit
+(She/not/come) __________ to the party. - will not come
+(They/travel) __________ by train. - will travel
+(I/take) __________ the test tomorrow. - will take
+(We/meet) __________ at the café. - will meet
+(He/not/play) __________ football on Sunday. - will not play
+(They/fix) __________ the car tomorrow. - will fix
+(You/join) __________ us for lunch? - will you join
+(She/call) __________ you later. - will call
+(We/not/go) __________ out tonight. - will not go
+(I/send) __________ you the details. - will send
+(They/visit) __________ their grandparents next week. - will visit
+(He/help) __________ you with the project? - will he help
+(I/not/finish) __________ this today. - will not finish
+(You/buy) __________ a new car? - will you buy
+(We/visit) __________ the museum tomorrow. - will visit
+(She/not/call) __________ you later. - will not call
+(They/arrive) __________ next week. - will arrive
+(He/bring) __________ the cake to the party? - will he bring
+(I/buy) __________ a gift for you. - will buy
+(You/go) __________ to the concert next month? - will you go
+(She/not/come) __________ with us. - will not come
+(They/travel) __________ by plane. - will travel
+(I/take) __________ the exam next Friday. - will take
+(We/meet) __________ at the park. - will meet
+(He/not/play) __________ football tomorrow. - will not play
+(They/repair) __________ the road next month. - will repair
+(You/join) __________ us for lunch? - will you join
+(She/call) __________ you in the evening. - will call
+(We/not/attend) __________ the meeting. - will not attend
+(I/send) __________ you the report by email. - will send
+(They/visit) __________ their grandparents during the holidays. - will visit
+(He/help) __________ you with your homework. - will help
+(I/not/go) __________ to the gym tomorrow. - will not go
+(You/buy) __________ the tickets online? - will you buy
 
 # Уровень B1-B2
 
 ## Present Simple
-1. (He/like) __________ reading books. - likes
-2. (They/not/eat) __________ meat. - do not eat
-3. (She/go) __________ to school by bus. - goes
-4. (You/know) __________ him? - do you know
-5. (I/live) __________ here. - live
+(He/not/believe) __________ in ghosts. - does not believe
+(They/often/visit) __________ their relatives during holidays. - often visit
+(She/work) __________ in the city center. - works
+(You/usually/wake up) __________ early in the morning? - do you usually wake up
+(We/enjoy) __________ hiking in the mountains. - enjoy
+(He/not/agree) __________ with your opinion. - does not agree
+(They/prefer) __________ tea over coffee. - prefer
+(You/remember) __________ his name? - do you remember
+(She/have) __________ a lot of responsibilities at work. - has
+(We/not/own) __________ a house yet. - do not own
+(They/often/go) __________ out for dinner. - often go
+(He/seldom/smoke) __________. - seldom smokes
+(You/enjoy) __________ reading books? - do you enjoy
+(She/live) __________ with her parents. - lives
+(We/always/try) __________ to help others. - always try
+(They/not/attend) __________ the meetings regularly. - do not attend
+(He/read) __________ newspapers every morning. - reads
+(You/think) __________ it's going to rain? - do you think
+(We/often/travel) __________ during summer. - often travel
+(She/not/understand) __________ why he left. - does not understand
+(He/rarely/take) __________ the bus to work. - rarely takes
+(They/not/understand) __________ the instructions clearly. - do not understand
+(She/always/forget) __________ to bring her keys. - always forgets
+(You/often/visit) __________ your parents on weekends? - do you often visit
+(We/not/agree) __________ with his decision. - do not agree
+(He/usually/eat) __________ breakfast at 7 AM. - usually eats
+(They/sometimes/go) __________ for a walk after dinner. - sometimes go
+(She/never/smoke) __________. - never smokes
+(You/believe) __________ in luck? - do you believe
+(We/not/need) __________ any help. - do not need
+(He/like) __________ to read books in his free time. - likes
+(They/not/attend) __________ the meetings regularly. - do not attend
+(She/work) __________ as a software engineer. - works
+(You/think) __________ it is a good idea? - do you think
+(We/not/understand) __________ why they left early. - do not understand
+(He/often/play) __________ chess with his father. - often plays
+(They/not/believe) __________ in superstitions. - do not believe
+(She/like) __________ to travel around the world. - likes
+(You/often/use) __________ social media? - do you often use
+(We/always/try) __________ to do our best. - always try
 
 ## Present Continuous
-1. (We/be) __________ studying now. - are
-2. (She/not/sleep) __________ at the moment. - is not sleeping
-3. (They/work) __________ on a project. - are working
-4. (He/watch) __________ TV? - is he watching
-5. (I/eat) __________ dinner. - am eating
+(They/be) __________ constantly arguing these days. - are
+(She/not/visit) __________ her family this weekend. - is not visiting
+(He/prepare) __________ for his final exams. - is preparing
+(We/discuss) __________ the project details now. - are discussing
+(You/plan) __________ a surprise party for her? - are you planning
+(She/read) __________ a very interesting book at the moment. - is reading
+(They/consider) __________ moving to a new city. - are considering
+(He/work) __________ late tonight. - is working
+(I/not/feel) __________ very well today. - am not feeling
+(We/develop) __________ a new software currently. - are developing
+(You/look) __________ for a new job? - are you looking
+(She/not/attend) __________ the meeting this afternoon. - is not attending
+(They/organize) __________ a charity event. - are organizing
+(He/learn) __________ to play the guitar. - is learning
+(We/not/plan) __________ to leave soon. - are not planning
+(I/watch) __________ a documentary right now. - am watching
+(You/work) __________ from home this week? - are you working
+(She/not/take) __________ the bus today. - is not taking
+(They/try) __________ to fix the problem. - are trying
+(He/visit) __________ his grandparents at the weekend. - is visiting
+(She/not/feel) __________ well today. - is not feeling
+(They/arrange) __________ the chairs for the meeting. - are arranging
+(He/not/work) __________ today because it's a holiday. - is not working
+(We/prepare) __________ for the presentation. - are preparing
+(You/watch) __________ the new TV series? - are you watching
+(She/wait) __________ for the bus. - is waiting
+(They/not/plan) __________ to visit us this year. - are not planning
+(He/learn) __________ Spanish online. - is learning
+(We/not/expect) __________ any guests today. - are not expecting
+(You/play) __________ any sports this weekend? - are you playing
+(She/try) __________ to solve the problem. - is trying
+(They/not/study) __________ for the test yet. - are not studying
+(He/repair) __________ his bike in the garage. - is repairing
+(We/not/attend) __________ the conference this year. - are not attending
+(You/plan) __________ to move to a new house? - are you planning
+(She/look) __________ for a new job. - is looking
+(They/not/take) __________ part in the competition. - are not taking
+(He/write) __________ a novel. - is writing
+(We/discuss) __________ the budget for the next quarter. - are discussing
+(You/prepare) __________ for your exams? - are you preparing
 
 ## Past Simple
-1. (They/go) __________ to the park yesterday. - went
-2. (She/not/see) __________ the movie. - did not see
-3. (I/read) __________ that book last year. - read
-4. (You/write) __________ the letter? - did you write
-5. (He/work) __________ there. - worked
+(They/finish) __________ their homework before dinner. - finished
+(She/not/enjoy) __________ the concert last night. - did not enjoy
+(I/forget) __________ to call you yesterday. - forgot
+(You/go) __________ to the gym last week? - did you go
+(He/send) __________ the email in the morning. - sent
+(We/not/expect) __________ such a warm welcome. - did not expect
+(They/move) __________ to a new house last month. - moved
+(She/find) __________ her keys under the couch. - found
+(I/tell) __________ you about the meeting yesterday. - told
+(He/decide) __________ to quit his job. - decided
+(We/not/speak) __________ with her during the party. - did not speak
+(They/discover) __________ a new species of bird. - discovered
+(She/write) __________ a letter to her friend last night. - wrote
+(I/meet) __________ him at the conference last year. - met
+(You/hear) __________ the news yesterday? - did you hear
+(He/buy) __________ a new car last week. - bought
+(We/not/attend) __________ the seminar. - did not attend
+(They/enjoy) __________ their vacation in Spain. - enjoyed
+(She/lose) __________ her wallet during the trip. - lost
+(I/miss) __________ the bus this morning. - missed
+(She/write) __________ her first book at the age of 20. - wrote
+(They/not/find) __________ the solution they were looking for. - did not find
+(He/enjoy) __________ the movie last night. - enjoyed
+(We/not/visit) __________ the museum during our trip. - did not visit
+(You/send) __________ the email I asked for? - did you send
+(She/receive) __________ a gift from her friend. - received
+(They/not/play) __________ tennis yesterday. - did not play
+(He/ask) __________ me for help with his homework. - asked
+(We/not/finish) __________ the project on time. - did not finish
+(You/talk) __________ to your boss about the raise? - did you talk
+(She/not/go) __________ to the gym last week. - did not go
+(They/win) __________ the match on Sunday. - won
+(He/not/enjoy) __________ the party. - did not enjoy
+(We/travel) __________ to Europe last summer. - traveled
+(You/understand) __________ the instructions? - did you understand
+(She/not/complete) __________ the task before the deadline. - did not complete
+(They/discover) __________ a new species of plant. - discovered
+(He/not/attend) __________ the meeting yesterday. - did not attend
+(We/build) __________ a new shed in the backyard. - built
+(You/not/pay) __________ the bill? - did you not pay
 
 ## Past Continuous
-1. (They/be) __________ watching a movie when I arrived. - were
-2. (She/not/eat) __________ dinner at that time. - was not eating
-3. (I/read) __________ when the phone rang. - was reading
-4. (You/work) __________ last night? - were you working
-5. (He/play) __________ football when it started to rain. - was playing
+(They/be) __________ discussing the plan when I entered. - were
+(She/not/pay) __________ attention when the teacher asked her a question. - was not paying
+(I/work) __________ on the report all day yesterday. - was working
+(We/have) __________ dinner when the phone rang. - were having
+(You/wait) __________ for me at the station? - were you waiting
+(She/not/drive) __________ when the accident occurred. - was not driving
+(They/talk) __________ about the new project when I joined them. - were talking
+(He/watch) __________ the news when I called. - was watching
+(I/not/sleep) __________ when you called. - was not sleeping
+(We/play) __________ football when it started to rain. - were playing
+(You/read) __________ a book when I saw you? - were you reading
+(She/not/listen) __________ to music when the doorbell rang. - was not listening
+(They/prepare) __________ for the exam all night. - were preparing
+(He/speak) __________ with the manager when I arrived. - was speaking
+(We/drive) __________ to the airport when we heard the news. - were driving
+(You/work) __________ on the new project when I last checked? - were you working
+(She/not/cry) __________ when I saw her. - was not crying
+(They/make) __________ a plan when we arrived. - were making
+(He/write) __________ an email when I interrupted him. - was writing
+(I/not/exercise) __________ when you called me. - was not exercising
+(She/wait) __________ for the bus when it started to rain. - was waiting
+(They/not/pay) __________ attention to the lecture. - were not paying
+(He/drive) __________ when the accident happened. - was driving
+(We/not/talk) __________ when you arrived. - were not talking
+(You/listen) __________ to music when I called? - were you listening
+(She/read) __________ a book when I saw her. - was reading
+(They/prepare) __________ dinner when we arrived. - were preparing
+(He/not/work) __________ on the project when we checked in. - was not working
+(We/walk) __________ in the park when it started raining. - were walking
+(You/sleep) __________ when the fire alarm went off? - were you sleeping
+(She/not/watch) __________ TV when the guests arrived. - was not watching
+(They/discuss) __________ the problem when I walked in. - were discussing
+(He/not/eat) __________ breakfast when I called him. - was not eating
+(We/play) __________ football when it started to snow. - were playing
+(You/work) __________ on your thesis when I called? - were you working
+(She/not/wear) __________ her glasses when I saw her. - was not wearing
+(They/build) __________ a new house when the storm hit. - were building
+(He/write) __________ an email when the power went out. - was writing
+(We/not/drive) __________ when the accident occurred. - were not driving
+(You/speak) __________ to your boss when I saw you? - were you speaking
 
 ## Future Simple
-1. (We/go) __________ to the beach next weekend. - will go
-2. (She/not/come) __________ to the party. - will not come
-3. (They/travel) __________ to Japan next year. - will travel
-4. (You/meet) __________ us there? - will you meet
-5. (I/buy) __________ a new car. - will buy
+(We/not/start) __________ the project until next week. - will not start
+(She/visit) __________ her family this weekend. - will visit
+(They/complete) __________ the assignment by tomorrow. - will complete
+(He/not/attend) __________ the meeting on Monday. - will not attend
+(I/call) __________ you when I arrive. - will call
+(You/join) __________ us for dinner tomorrow? - will you join
+(She/not/finish) __________ the report on time. - will not finish
+(They/travel) __________ to Europe next summer. - will travel
+(I/not/go) __________ to the party if it rains. - will not go
+(We/discuss) __________ the details tomorrow. - will discuss
+(He/bring) __________ the documents to the meeting? - will he bring
+(They/not/return) __________ until late. - will not return
+(You/prepare) __________ the presentation for tomorrow? - will you prepare
+(She/buy) __________ a new car next month. - will buy
+(We/not/meet) __________ again until next week. - will not meet
+(He/help) __________ you with your homework? - will he help
+(They/arrive) __________ at the airport in the evening. - will arrive
+(I/not/forget) __________ to call you. - will not forget
+(You/take) __________ the test tomorrow? - will you take
+(She/plan) __________ a surprise party for him. - will plan
+(We/not/make) __________ the same mistake again. - will not make
+(She/visit) __________ her relatives this weekend. - will visit
+(They/complete) __________ the assignment by tomorrow. - will complete
+(He/not/join) __________ us for lunch. - will not join
+(I/call) __________ you later. - will call
+(You/go) __________ to the party tonight? - will you go
+(She/not/buy) __________ a new car this year. - will not buy
+(They/travel) __________ to Asia next year. - will travel
+(He/help) __________ you with the project? - will he help
+(We/not/start) __________ until everyone arrives. - will not start
+(You/take) __________ the exam tomorrow? - will you take
+(She/not/attend) __________ the meeting. - will not attend
+(They/build) __________ a new library in our town. - will build
+(He/not/leave) __________ until he finishes his work. - will not leave
+(We/celebrate) __________ your birthday tomorrow. - will celebrate
+(You/send) __________ me the details later? - will you send
+(She/return) __________ the book next week. - will return
+(They/not/visit) __________ the museum on their trip. - will not visit
+(He/take) __________ care of the arrangements. - will take
+(We/meet) __________ at the café at 3 PM. - will meet
 
 # Уровень C1-C2
 
 ## Present Simple
-1. (They/visit) __________ their grandparents every Sunday. - visit
-2. (She/not/like) __________ spicy food. - does not like
-3. (You/play) __________ tennis? - do you play
-4. (He/work) __________ at the university. - works
-5. (I/live) __________ in this city. - live
+(The company/allocate) __________ resources effectively to maximize productivity. - allocates
+(She/not/appreciate) __________ the subtle nuances in his argument. - does not appreciate
+(They/pursue) __________ their goals with unwavering determination. - pursue
+(The professor/convey) __________ complex theories in a way that is easy to understand. - conveys
+(He/acknowledge) __________ the importance of continuous learning. - acknowledges
+(The committee/not/agree) __________ on the proposed changes. - does not agree
+(She/exemplify) __________ the qualities of a strong leader. - exemplifies
+(The team/execute) __________ the plan with precision. - executes
+(He/reiterate) __________ his stance on the matter during every meeting. - reiterates
+(They/overcome) __________ challenges through innovative solutions. - overcome
+(The report/suggest) __________ several key areas for improvement. - suggests
+(She/interpret) __________ the data in a way that challenges traditional views. - interprets
+(They/advocate) __________ for policy changes that benefit the environment. - advocate
+(He/not/adhere) __________ strictly to the guidelines. - does not adhere
+(The organization/foster) __________ a culture of inclusivity. - fosters
+(She/contribute) __________ regularly to scholarly journals. - contributes
+(They/not/consider) __________ alternative perspectives adequately. - do not consider
+(The author/argue) __________ convincingly in favor of her thesis. - argues
+(He/implement) __________ strategies that enhance performance. - implements
+(The study/provide) __________ new insights into human behavior. - provides
+(He/not/subscribe) __________ to the prevailing opinion. - does not subscribe
+(They/advocate) __________ for significant policy reforms. - advocate
+(The scientist/propose) __________ a new theory on climate change. - proposes
+(She/not/support) __________ this methodology. - does not support
+(They/apply) __________ cutting-edge technology in their research. - apply
+(He/acknowledge) __________ the limitations of the study. - acknowledges
+(The report/outline) __________ the major challenges. - outlines
+(She/not/agree) __________ with the conclusion. - does not agree
+(They/recommend) __________ further investigation into the matter. - recommend
+(He/demonstrate) __________ exceptional leadership qualities. - demonstrates
+(The committee/not/consider) __________ all the relevant factors. - does not consider
+(She/criticize) __________ the existing framework. - criticizes
+(They/investigate) __________ new methods of data analysis. - investigate
+(He/not/focus) __________ on the core issues. - does not focus
+(The research/suggest) __________ a correlation between the variables. - suggests
+(She/express) __________ her thoughts clearly and concisely. - expresses
+(They/analyze) __________ the data thoroughly before drawing conclusions. - analyze
+(He/not/acknowledge) __________ the contributions of his team. - does not acknowledge
+(The article/provide) __________ a comprehensive overview of the topic. - provides
+(She/question) __________ the validity of the findings. - questions
 
 ## Present Continuous
-1. (They/be) __________ planning a trip right now. - are
-2. (He/not/listen) __________ to music at the moment. - is not listening
-3. (She/read) __________ a book now. - is reading
-4. (You/work) __________ on your project? - are you working
-5. (I/watch) __________ TV. - am watching
+(The scientists/conduct) __________ experiments to verify the hypothesis. - are conducting
+(She/not/participate) __________ in the debate actively. - is not participating
+(They/explore) __________ new methods to improve efficiency. - are exploring
+(He/research) __________ the impact of climate change on biodiversity. - is researching
+(The team/develop) __________ innovative solutions to complex problems. - is developing
+(She/not/engage) __________ with the material as expected. - is not engaging
+(They/investigate) __________ the cause of the recent anomalies. - are investigating
+(He/critically assess) __________ the implications of the findings. - is critically assessing
+(The organization/expand) __________ its operations internationally. - is expanding
+(She/pursue) __________ a PhD in molecular biology. - is pursuing
+(They/not/consider) __________ the broader implications of their decision. - are not considering
+(The committee/reevaluate) __________ the current policies. - is reevaluating
+(He/formulate) __________ a new theory to explain the phenomenon. - is formulating
+(They/examine) __________ the data for potential errors. - are examining
+(She/lead) __________ a team of researchers in this project. - is leading
+(The company/restructure) __________ its management to increase efficiency. - is restructuring
+(He/not/address) __________ the key issues in his presentation. - is not addressing
+(They/debunk) __________ myths about nutrition with solid evidence. - are debunking
+(She/experiment) __________ with different techniques in her art. - is experimenting
+(The group/advocate) __________ for systemic change. - is advocating
+(The team/not/agree) __________ on the next steps yet. - is not agreeing
+(She/implement) __________ a new strategy to improve efficiency. - is implementing
+(They/conduct) __________ an in-depth analysis of the data. - are conducting
+(He/not/focus) __________ on the most critical issues. - is not focusing
+(The researchers/examine) __________ the implications of the study. - are examining
+(She/not/participate) __________ in the ongoing discussions. - is not participating
+(They/review) __________ the proposal before submission. - are reviewing
+(He/consider) __________ the ethical implications of his actions. - is considering
+(The committee/not/approve) __________ the new guidelines. - is not approving
+(She/explore) __________ new approaches to the problem. - is exploring
+(They/develop) __________ a more sustainable model. - are developing
+(He/not/engage) __________ with the team effectively. - is not engaging
+(The organization/expand) __________ its influence globally. - is expanding
+(She/experiment) __________ with innovative techniques in her research. - is experimenting
+(They/not/investigate) __________ the root cause thoroughly. - are not investigating
+(He/analyze) __________ the feedback to improve the process. - is analyzing
+(The scientists/observe) __________ the changes closely. - are observing
+(She/not/oversee) __________ the project personally. - is not overseeing
+(They/interpret) __________ the data from a new perspective. - are interpreting
+(He/not/acknowledge) __________ the efforts of his colleagues. - is not acknowledging
 
 ## Past Simple
-1. (I/meet) __________ him two years ago. - met
-2. (She/not/finish) __________ her homework. - did not finish
-3. (They/arrive) __________ last night. - arrived
-4. (You/see) __________ that movie? - did you see
-5. (He/play) __________ the piano. - played
+(The researcher/discover) __________ a groundbreaking method in the field of nanotechnology. - discovered
+(They/not/consider) __________ all the variables in the initial study. - did not consider
+(He/undertake) __________ a comprehensive review of the literature. - undertook
+(She/challenge) __________ the prevailing theories with her findings. - challenged
+(The project/encounter) __________ numerous obstacles during its execution. - encountered
+(They/publish) __________ their results in a peer-reviewed journal. - published
+(He/not/convey) __________ the complexity of the issue effectively. - did not convey
+(She/conduct) __________ several trials before reaching a conclusion. - conducted
+(They/ignore) __________ the potential risks associated with the procedure. - ignored
+(He/present) __________ his research at the international conference. - presented
+(The author/elucidate) __________ the nuances of the theory in her latest book. - elucidated
+(They/not/achieve) __________ the expected outcomes despite their efforts. - did not achieve
+(She/expound) __________ on the limitations of the study. - expounded
+(The team/implement) __________ a new strategy to address the issues. - implemented
+(He/synthesize) __________ information from various sources for his analysis. - synthesized
+(They/question) __________ the validity of the results. - questioned
+(She/not/support) __________ her argument with sufficient evidence. - did not support
+(He/revise) __________ his paper based on the feedback received. - revised
+(The committee/approve) __________ the new research protocol. - approved
+(She/investigate) __________ the social implications of the policy changes. - investigated
+(The research team/validate) __________ the findings with additional tests. - validated
+(She/not/foresee) __________ the impact of her actions. - did not foresee
+(They/implement) __________ the new system last year. - implemented
+(He/not/consider) __________ the alternative solutions. - did not consider
+(The committee/approve) __________ the final draft after revisions. - approved
+(She/challenge) __________ the existing theories with her paper. - challenged
+(They/not/achieve) __________ the desired results. - did not achieve
+(He/present) __________ his findings at the conference. - presented
+(The organization/expand) __________ its operations to three new countries. - expanded
+(She/not/support) __________ the proposal during the meeting. - did not support
+(They/question) __________ the validity of the data. - questioned
+(He/not/adhere) __________ to the guidelines strictly. - did not adhere
+(The researchers/discover) __________ a significant correlation. - discovered
+(She/not/attend) __________ the seminar due to prior commitments. - did not attend
+(They/contribute) __________ several key ideas to the project. - contributed
+(He/overcome) __________ the challenges through perseverance. - overcame
+(The report/outline) __________ the necessary steps clearly. - outlined
+(She/interpret) __________ the results differently from her peers. - interpreted
+(They/not/investigate) __________ all the variables. - did not investigate
+(He/acknowledge) __________ the importance of teamwork. - acknowledged
 
 ## Past Continuous
-1. (They/be) __________ eating when I came in. - were
-2. (She/not/work) __________ when I called her. - was not working
-3. (I/sleep) __________ when the alarm went off. - was sleeping
-4. (He/watch) __________ TV all evening. - was watching
-5. (You/drive) __________ when I saw you? - were you driving
+(The researchers/analyze) __________ the data when the error was discovered. - were analyzing
+(She/not/anticipate) __________ the challenges that would arise. - was not anticipating
+(They/conduct) __________ fieldwork in the remote area when the incident occurred. - were conducting
+(He/examine) __________ the samples when the equipment failed. - was examining
+(The team/develop) __________ the prototype when they faced a setback. - was developing
+(She/not/foresee) __________ the consequences of her decision. - was not foreseeing
+(They/discuss) __________ the results when the power went out. - were discussing
+(He/interpret) __________ the data when new information came to light. - was interpreting
+(The organization/restructure) __________ its departments during the merger. - was restructuring
+(She/not/consider) __________ all perspectives during the debate. - was not considering
+(They/analyze) __________ trends when the market suddenly shifted. - were analyzing
+(He/prepare) __________ his dissertation when he decided to change his focus. - was preparing
+(The committee/review) __________ the proposal when the objection was raised. - was reviewing
+(She/synthesize) __________ various theories when she came to a new conclusion. - was synthesizing
+(They/not/account) __________ for all variables when designing the experiment. - were not accounting
+(He/formulate) __________ his hypothesis when new data became available. - was formulating
+(She/outline) __________ her argument when she found a flaw in her reasoning. - was outlining
+(They/implement) __________ the changes when the issue was identified. - were implementing
+(He/not/acknowledge) __________ the limitations of his study. - was not acknowledging
+(The team/discuss) __________ potential outcomes when they received the final data. - was discussing
+(They/not/predict) __________ the market shift when it occurred. - were not predicting
+(She/prepare) __________ her presentation when the power went out. - was preparing
+(He/examine) __________ the evidence when the new data was presented. - was examining
+(The team/not/consider) __________ the alternative approaches. - was not considering
+(She/formulate) __________ her thesis when the idea struck. - was formulating
+(They/not/analyze) __________ the implications thoroughly. - were not analyzing
+(He/research) __________ new materials when the breakthrough happened. - was researching
+(The committee/discuss) __________ the proposal when the news broke. - was discussing
+(She/not/anticipate) __________ the feedback from her peers. - was not anticipating
+(They/develop) __________ the software when they encountered a bug. - were developing
+(He/review) __________ the draft when the deadline was extended. - was reviewing
+(The researchers/not/follow) __________ the correct procedure. - were not following
+(She/explore) __________ different methodologies when the funding ran out. - was exploring
+(They/not/understand) __________ the full scope of the project. - were not understanding
+(He/revise) __________ his paper when he found an error. - was revising
+(The organization/implement) __________ new policies when the issue arose. - was implementing
+(She/not/contribute) __________ to the discussion actively. - was not contributing
+(They/observe) __________ the phenomenon closely when the event occurred. - were observing
+(He/not/anticipate) __________ the outcome when he made the decision. - was not anticipating
+(The team/assess) __________ the situation when the changes happened. - was assessing
 
 ## Future Simple
-1. (They/be) __________ here soon. - will be
-2. (She/not/be) __________ at the meeting. - will not be
-3. (We/start) __________ the project next week. - will start
-4. (He/come) __________ to the party? - will he come
-5. (I/finish) __________ my work by then. - will finish
+(The company/revolutionize) __________ the industry with its new product. - will revolutionize
+(She/not/overlook) __________ any details in her analysis. - will not overlook
+(They/transform) __________ the entire process with this innovation. - will transform
+(He/contribute) __________ significantly to the field with his upcoming research. - will contribute
+(The committee/review) __________ the proposal thoroughly before making a decision. - will review
+(She/anticipate) __________ potential challenges in her upcoming project. - will anticipate
+(They/expand) __________ their operations to international markets. - will expand
+(He/not/finalize) __________ the report until all data is collected. - will not finalize
+(The team/implement) __________ the new strategy next quarter. - will implement
+(She/analyze) __________ the results as soon as the experiment concludes. - will analyze
+(They/reassess) __________ the situation if new evidence emerges. - will reassess
+(He/explore) __________ alternative methods in his next study. - will explore
+(The company/diversify) __________ its product range in the coming year. - will diversify
+(She/not/disclose) __________ her findings until the paper is published. - will not disclose
+(They/develop) __________ a new framework for understanding the data. - will develop
+(He/lead) __________ the project once the current phase is completed. - will lead
+(The organization/advocate) __________ for changes in the policy. - will advocate
+(She/evaluate) __________ the effectiveness of the new approach. - will evaluate
+(They/restructure) __________ the department to improve efficiency. - will restructure
+(He/not/ignore) __________ the feedback he received. - will not ignore
+(She/not/compromise) __________ on her principles. - will not compromise
+(They/revolutionize) __________ the industry with their innovation. - will revolutionize
+(He/conduct) __________ further research to validate the theory. - will conduct
+(The organization/not/endorse) __________ the new policy. - will not endorse
+(She/evaluate) __________ the effectiveness of the new strategy. - will evaluate
+(They/not/pursue) __________ this approach in the future. - will not pursue
+(He/redefine) __________ the standards with his work. - will redefine
+(The committee/consider) __________ the proposal next month. - will consider
+(She/not/ignore) __________ the advice given by her mentor. - will not ignore
+(They/analyze) __________ the results once the data is available. - will analyze
+(He/not/participate) __________ in the event next year. - will not participate
+(The scientists/expand) __________ their research to include more variables. - will expand
+(She/overcome) __________ the challenges through perseverance. - will overcome
+(They/not/repeat) __________ the mistakes of the past. - will not repeat
+(He/acknowledge) __________ the contributions of his team. - will acknowledge
+(The report/outline) __________ the next steps. - will outline
+(She/implement) __________ the plan as soon as possible. - will implement
+(They/not/overlook) __________ any important details. - will not overlook
+(He/lead) __________ the team in the new project. - will lead
+(The organization/advocate) __________ for policy changes. - will advocate
