@@ -28,12 +28,12 @@ CHARACTER_VOICES = {
 }
 
 # Пути к файлам
-GRAMMAR_RULES_FILE = "C:/Users/User/PycharmProjects/EnglishAI/extra_files/grammar_rules.txt"
-GRAMMAR_EXERCISES_FILE = "C:/Users/User/PycharmProjects/EnglishAI/extra_files/grammar_exercises.txt"
-DICTIONARY_FILE = "C:/Users/User/PycharmProjects/EnglishAI/extra_files/dictionary.txt"
+GRAMMAR_RULES_FILE = "/root/EnglishAI/extra_files/grammar_rules.txt"
+GRAMMAR_EXERCISES_FILE = "/root/EnglishAI/extra_files/grammar_exercises.txt"
+DICTIONARY_FILE = "/root/EnglishAI/extra_files/dictionary.txt"
 CHARACTER_IMAGES = {
-    "Lori": "C:/Users/User/PycharmProjects/EnglishAI/images/Lori_image.jpg",
-    "Kiko": "C:/Users/User/PycharmProjects/EnglishAI/images/Kiko_image.jpg",
-    "Nancy": "C:/Users/User/PycharmProjects/EnglishAI/images/Nancy_image.jpg",
-    "Broot": "C:/Users/User/PycharmProjects/EnglishAI/images/Broot_image.jpg"
+    "Lori": "/root/EnglishAI/images/Lori_image.jpg",
+    "Kiko": "/root/EnglishAI/images/Kiko_image.jpg",
+    "Nancy": "/root/EnglishAI/images/Nancy_image.jpg",
+    "Broot": "/root/EnglishAI/images/Broot_image.jpg"
 }
