@@ -328,7 +328,7 @@ async def set_user_level(callback_query: types.CallbackQuery) -> None:
 
 @router.message(F.text.in_({"Info", "Информация"}))
 async def handle_info_button(message: Message) -> None:
-    """Отправка информации о боте и командах."""
+    """Отправка информации о боте и поддержке проекта."""
     async with session_scope() as session:
         user = await get_user(session, message.chat.id)
         language = user.language if user else 'en'
@@ -342,7 +342,8 @@ async def handle_info_button(message: Message) -> None:
             "<b>Practice</b>: Test your knowledge with grammar exercises.\n\n"
             "<b>Dictionary</b>: Add, learn, and see the meaning of words based on your level.\n\n"
             "<b>Talk</b>: Engage in a conversation with the bot, tailored to your English level.\n\n"
-            "<b>Info</b>: See all available commands and how to use them."
+            "<b>Info</b>: See all available commands and how to use them.\n\n"
+            "<b>Support project</b>: Help us by joining our recommended projects!"
         ),
         'ru': (
             "<b>/start</b>: Начните взаимодействие с ботом и откройте главное меню.\n\n"
@@ -352,11 +353,29 @@ async def handle_info_button(message: Message) -> None:
             "<b>Практика</b>: Проверьте свои знания с помощью упражнений по грамматике.\n\n"
             "<b>Словарь</b>: Добавляйте слова, учите их и смотрите их значение в зависимости от вашего уровня.\n\n"
             "<b>Разговор</b>: Поговорите с ботом на английском, адаптированном под ваш уровень.\n\n"
-            "<b>Информация</b>: Посмотрите все доступные команды и узнайте, как ими пользоваться."
+            "<b>Информация</b>: Посмотрите все доступные команды и узнайте, как ими пользоваться.\n\n"
+            "<b>Поддержать проект</b>: Помогите нам, присоединившись к нашим рекомендуемым проектам!"
         )
     }
 
-    await bot.send_message(message.chat.id, info_text[language], parse_mode="html")
+    markup = InlineKeyboardMarkup(inline_keyboard=[
+        [InlineKeyboardButton(text="Support project" if language == 'en' else "Поддержать проект", callback_data="support_project")],
+        [InlineKeyboardButton(text="Go back" if language == 'en' else "Вернуться назад", callback_data="go_back")]
+    ])
+
+    await bot.send_message(message.chat.id, info_text[language], parse_mode="html", reply_markup=markup)
+
+@router.callback_query(F.data == "support_project")
+async def handle_support_project(callback_query: types.CallbackQuery) -> None:
+    """Отправка меню с реферальными ссылками."""
+    async with session_scope() as session:
+        user = await get_user(session, callback_query.message.chat.id)
+        language = user.language if user else 'en'
+
+    markup = create_support_buttons(language)
+    await bot.send_message(callback_query.message.chat.id,
+                           "Support our project by joining the following platforms:" if language == 'en' else "Поддержите наш проект, присоединившись к следующим платформам:",
+                           reply_markup=markup)
 
 """ Обработка уведомлений """
 
