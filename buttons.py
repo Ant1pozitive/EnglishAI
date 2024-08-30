@@ -116,3 +116,21 @@ def create_dict_menu_buttons(language: str = 'en') -> ReplyKeyboardMarkup:
     ]
 
     return ReplyKeyboardMarkup(keyboard=buttons_en if language == 'en' else buttons_ru, one_time_keyboard=True, resize_keyboard=True)
+
+def create_support_buttons(language: str = 'en') -> InlineKeyboardMarkup:
+    buttons_en = [
+        [InlineKeyboardButton(text="Join Blum", url="https://t.me/blum/app?startapp=ref_QB8T442IqO")],
+        [InlineKeyboardButton(text="Join Tapswap", url="https://t.me/tapswap_mirror_1_bot?start=r_1110386065")],
+        [InlineKeyboardButton(text="Join X Empire", url="https://t.me/empirebot/game?startapp=hero1110386065")],
+        [InlineKeyboardButton(text="Go back", callback_data="go_back")]
+    ]
+
+    buttons_ru = [
+        [InlineKeyboardButton(text="Присоединиться к Blum", url="https://t.me/blum/app?startapp=ref_QB8T442IqO")],
+        [InlineKeyboardButton(text="Присоединиться к Tapswap", url="https://t.me/tapswap_mirror_1_bot?start=r_1110386065")],
+        [InlineKeyboardButton(text="Join X Empire", url="https://t.me/empirebot/game?startapp=hero1110386065")],
+        [InlineKeyboardButton(text="Вернуться назад", callback_data="go_back")]
+    ]
+
+    return InlineKeyboardMarkup(inline_keyboard=buttons_en if language == 'en' else buttons_ru)
+
