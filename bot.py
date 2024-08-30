@@ -2,7 +2,7 @@ import asyncio
 import difflib
 import logging
 import random
-import json  # Новая библиотека для работы с JSON
+import json
 from datetime import datetime, timedelta
 from pathlib import Path
 from contextlib import asynccontextmanager
@@ -12,7 +12,7 @@ import contractions
 import openai
 from aiogram import Bot, Dispatcher, types, F
 from aiogram.client.default import DefaultBotProperties
-from aiogram.filters import StateFilter, CommandStart, Command  # Добавлен Command
+from aiogram.filters import StateFilter, CommandStart, Command
 from aiogram.fsm.state import State, StatesGroup
 from aiogram.types import Message, InlineKeyboardButton, InlineKeyboardMarkup, KeyboardButton, ReplyKeyboardMarkup, \
     FSInputFile
@@ -974,7 +974,7 @@ async def handle_listen(callback_query: types.CallbackQuery) -> None:
         await bot.send_voice(callback_query.message.chat.id, voice_message)
     finally:
         if speech_file_path and speech_file_path.exists():
-            speech_file_path.unlink()  # Удаление файла в блоке finally
+            speech_file_path.unlink() 
 
 @router.message(StateFilter("check_translation_state"))
 async def check_translation(message: Message, state: FSMContext) -> None:
