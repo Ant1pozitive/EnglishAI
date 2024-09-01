@@ -284,12 +284,15 @@ async def set_language(callback_query: types.CallbackQuery, state: FSMContext) -
             user = User(chat_id=chat_id, language=language)
             session.add(user)
 
+    # Добавляем кнопку "Support project" в разметку
+    markup = InlineKeyboardMarkup(inline_keyboard=[
+        [InlineKeyboardButton(text="Support project", callback_data="support_project")]
+    ])
+
     if language == 'ru':
-        await bot.send_message(chat_id, "Добро пожаловать в бот для изучения английского!",
-                               reply_markup=create_navigation_buttons('ru'))
+        await bot.send_message(chat_id, "Добро пожаловать в бот для изучения английского!", reply_markup=markup)
     else:
-        await bot.send_message(chat_id, "Welcome to the English Learning Bot!",
-                               reply_markup=create_navigation_buttons('en'))
+        await bot.send_message(chat_id, "Welcome to the English Learning Bot!", reply_markup=markup)
 
     await state.clear()
 
