@@ -127,6 +127,7 @@ def create_support_buttons(language: str = 'en') -> InlineKeyboardMarkup:
         [InlineKeyboardButton(text="Join KuCoin", url="https://t.me/xkucoinbot/kucoinminiapp?startapp=cm91dGU9JTJGdGFwLWdhbWUlM0ZpbnZpdGVyVXNlcklkJTNEMTExMDM4NjA2NSUyNnJjb2RlJTNE")],
         [InlineKeyboardButton(text="Join Major", url="https://t.me/major/start?startapp=1110386065")],
         [InlineKeyboardButton(text="Join Agent 301", url="https://t.me/Agent301Bot/app?startapp=onetime1110386065")],
+        [InlineKeyboardButton(text="Join Dropee", url="https://t.me/DropeeBot/play?startapp=ref_IX83lhYhO3v")],
         [InlineKeyboardButton(text="Go back", callback_data="go_back")]
     ]
 
@@ -139,6 +140,7 @@ def create_support_buttons(language: str = 'en') -> InlineKeyboardMarkup:
         [InlineKeyboardButton(text="Присоединиться к KuCoin", url="https://t.me/xkucoinbot/kucoinminiapp?startapp=cm91dGU9JTJGdGFwLWdhbWUlM0ZpbnZpdGVyVXNlcklkJTNEMTExMDM4NjA2NSUyNnJjb2RlJTNE")],
         [InlineKeyboardButton(text="Присоединиться к Major", url="https://t.me/major/start?startapp=1110386065")],
         [InlineKeyboardButton(text="Присоединиться к Agent 301", url="https://t.me/Agent301Bot/app?startapp=onetime1110386065")],
+        [InlineKeyboardButton(text="Присоединиться к Dropee", url="https://t.me/DropeeBot/play?startapp=ref_IX83lhYhO3v")],
         [InlineKeyboardButton(text="Вернуться назад", callback_data="go_back")]
     ]
 
