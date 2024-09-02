@@ -4,3 +4,4 @@ aiogram~=3.10.0
 APScheduler~=3.10.4
 python-dotenv~=1.0.1
 SQLAlchemy~=2.0.32
+translate~=3.6.1
