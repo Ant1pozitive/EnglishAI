@@ -521,7 +521,7 @@ async def disable_notifications(message: Message, state: FSMContext) -> None:
                            reply_markup=create_navigation_buttons(language))
     await state.clear()
 
-""" Обработка грамматических упражнений """
+""" Обработка грамматических правил """
 
 @router.message(F.text.in_({"Grammar", "Грамматика"}))
 async def handle_grammar_button(message: Message) -> None:
@@ -586,6 +586,8 @@ async def handle_grammar_selection(callback_query: types.CallbackQuery) -> None:
     """Обработка выбора правила грамматики."""
     rule_text = grammar_rules[callback_query.data]
     await bot.send_message(callback_query.message.chat.id, rule_text, parse_mode="html")
+
+""" Обработка грамматических упражнений """
 
 def load_grammar_exercises(filepath: str) -> Dict[str, Dict[str, List[Tuple[str, str]]]]:
     """Загрузка упражнений по грамматике из файла."""
