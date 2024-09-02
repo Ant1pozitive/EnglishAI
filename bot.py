@@ -7,7 +7,6 @@ from datetime import datetime, timedelta
 from pathlib import Path
 from contextlib import asynccontextmanager
 from typing import Optional, Dict, List, Tuple
-import translate
 
 import contractions
 import openai
